@@ -1,0 +1,4155 @@
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #2
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #3
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #4
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #5
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #6
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #7
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #8
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #9
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #10
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #11
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #12
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #13
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #14
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #15
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #16
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #17
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #18
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #19
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #20
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #21
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #22
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #23
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #24
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #25
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #26
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #27
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #28
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #29
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #30
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #31
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #32
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #33
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #34
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #35
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #36
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #37
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #38
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #39
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #40
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #41
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #42
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #43
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #44
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #45
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #46
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #47
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #48
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #49
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #50
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #51
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #52
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #53
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #54
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #55
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #56
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #57
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #58
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #59
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #60
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #61
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #62
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #63
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #64
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #65
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #66
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #67
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #68
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #69
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #70
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #71
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #72
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #73
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #74
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #75
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #76
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #77
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #78
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #79
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #80
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #81
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #82
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #83
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #84
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #85
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #86
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #87
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #88
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #89
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #90
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #91
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #92
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #93
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #94
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #95
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #96
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #97
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #98
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #99
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #100
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #101
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #102
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #103
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #104
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #105
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #106
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #107
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #108
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #109
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #110
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #111
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #112
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #113
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #114
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #115
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #116
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #117
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #118
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #119
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #120
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #121
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #122
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #123
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #124
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #125
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #126
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #127
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #128
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #129
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #130
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #131
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #132
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #133
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #134
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #135
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #136
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #137
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #138
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #139
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #140
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #141
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #142
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #143
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #144
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #145
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #146
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #147
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #148
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #149
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #150
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #151
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #152
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #153
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #154
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #155
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #156
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #157
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #158
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #159
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #160
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #161
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #162
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #163
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #164
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #165
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #166
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #167
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #168
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #169
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #170
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #171
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #172
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #173
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #174
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #175
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #176
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #177
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #178
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #179
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #180
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #181
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #182
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #183
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #184
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #185
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #186
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #187
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #188
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #189
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #190
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #191
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #192
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #193
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #194
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #195
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #196
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #197
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #198
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #199
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #200
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #201
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #202
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #203
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #204
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #205
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #206
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #207
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #208
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #209
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #210
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #211
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #212
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #213
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #214
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #215
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #216
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #217
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #218
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #219
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #220
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #221
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #222
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #223
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #224
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #225
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #226
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #227
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #228
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #229
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #230
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #231
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #232
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #233
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #234
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #235
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #236
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #237
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #238
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #239
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #240
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #241
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #242
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #243
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #244
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #245
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #246
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #247
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #248
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #249
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #250
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #251
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #252
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #253
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #254
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #255
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #256
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #257
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #258
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #259
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #260
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #261
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #262
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #263
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #264
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #265
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #266
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #267
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #268
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #269
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #270
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #271
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #272
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #273
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #274
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #275
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #276
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect ENETUNREACH
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:415:13)
+    at Function.Module.runMain (module.js:499:11)
+    at startup (node.js:119:16)
+    at node.js:902:3
+error: Forever detected script exited with code: 8
+error: Script restart attempt #277

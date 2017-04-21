@@ -1,0 +1,48 @@
+http://api.wunderground.com/api/f5b77c6af4030b56/astronomy/q/SI/Ljubljana.json
+
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "astronomy": 1
+  }
+	}
+		,	"moon_phase": {
+		"percentIlluminated":"99",
+		"ageOfMoon":"14",
+		"phaseofMoon":"Waxing Gibbous",
+		"hemisphere":"North",
+		"current_time": {
+		"hour":"17",
+		"minute":"36"
+		},
+		"sunrise": {
+		"hour":"7",
+		"minute":"00"
+		},
+		"sunset": {
+		"hour":"16",
+		"minute":"31"
+		},
+		"moonrise": {
+		"hour":"16",
+		"minute":"16"
+		},
+		"moonset": {
+		"hour":"5",
+		"minute":"05"
+		}
+	},
+	"sun_phase": {
+		"sunrise": {
+		"hour":"7",
+		"minute":"00"
+		},
+		"sunset": {
+		"hour":"16",
+		"minute":"31"
+		}
+	}
+}

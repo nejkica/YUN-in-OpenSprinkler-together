@@ -1,0 +1,40 @@
+Datum	m3 kapljicno	m3 trata	set point	kolicina v rezervoarju	odstopanje	ventil
+ventilVodovodaDisabled 64
+2017-4-21 15:37:59	0.00	0.00	1.05	0.65	0.40	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:4	0.00	0.00	1.05	0.65	0.40	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:9	0.00	0.00	1.05	0.56	0.49	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:14	0.00	0.00	1.05	0.69	0.36	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:19	0.00	0.00	1.05	0.69	0.36	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:24	0.00	0.00	1.05	0.56	0.49	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:29	0.00	0.00	1.05	0.65	0.40	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:34	0.00	0.00	1.05	0.56	0.49	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:39	0.00	0.00	1.05	0.56	0.49	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:44	0.00	0.00	1.05	0.65	0.40	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:49	0.00	0.00	1.05	0.56	0.49	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:54	0.00	0.00	1.05	0.56	0.49	1
+ventilVodovodaDisabled 64
+2017-4-21 15:38:59	0.00	0.00	1.05	0.56	0.49	1
+ventilVodovodaDisabled 64
+2017-4-21 15:39:5	0.00	0.00	1.05	0.65	0.40	1
+ventilVodovodaDisabled 64
+2017-4-21 15:39:10	0.00	0.00	1.05	0.69	0.36	1
+ventilVodovodaDisabled 64
+2017-4-21 15:39:16	0.00	0.00	1.05	0.56	0.49	1
+ventilVodovodaDisabled 64
+2017-4-21 15:39:21	0.00	0.00	1.05	0.61	0.44	1
+ventilVodovodaDisabled 64
+2017-4-21 15:39:27	0.00	0.00	1.05	0.65	0.40	1
+ventilVodovodaDisabled 64
+2017-4-21 15:39:32	0.00	0.00	1.05	0.56	0.49	1
+error: Forever detected script was killed by signal: SIGKILL

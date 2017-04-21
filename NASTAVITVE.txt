@@ -1,0 +1,30 @@
+// -------------------------------------------------------------- /etc/crontabs/root
+# ob 01:01 vsak ponedeljek izbrise log datoteke
+# ob 02:00 prvega vsak mesec reboota
+1 1 * * 1 find /root/.forever -type f -name "*.log" -exec tee {} \; </dev/null
+0 2 1 * * /sbin/reboot
+
+
+
+//----------------------------------------------------------------/etc/rc.local
+# Put your custom commands here that should be executed once
+# the system init finished. By default this file does nothing.
+
+# wifi-live-or-reset
+
+# Changing bootloader name in LUA executable
+
+FILE=/usr/bin/merge-sketch-with-bootloader.lua
+BOARD=`cat /proc/cpuinfo | grep machine | awk {'print $4'}`
+sed -i -e "s/Caterina-Yun.hex/Caterina-$BOARD.hex/g" $FILE
+
+/usr/bin/reset-mcu
+
+export FOREVER_ROOT=/root/.forever
+forever start /root/streznik.js -c "node --stack_size=5 --max_old_size=5 --max_new_space_size=1024 --max_executable_size=5"
+forever start /root/racunanjeOS.js -c "node --stack_size=5 --max_old_size=5 --max_new_space_size=1024 --max_executable_size=5"
+
+
+#/usr/bin/
+
+exit 0

@@ -1,0 +1,13 @@
+
+/usr/lib/node_modules/forever/node_modules/forever-monitor/lib/forever-monitor/monitor.js:469
+  var match = command.match(
+                      ^
+TypeError: Object true has no method 'match'
+    at Monitor.parseCommand [as parser] (/usr/lib/node_modules/forever/node_modules/forever-monitor/lib/forever-monitor/monitor.js:469:23)
+    at Monitor.trySpawn (/usr/lib/node_modules/forever/node_modules/forever-monitor/lib/forever-monitor/monitor.js:230:18)
+    at Monitor.start (/usr/lib/node_modules/forever/node_modules/forever-monitor/lib/forever-monitor/monitor.js:163:16)
+    at start (/usr/lib/node_modules/forever/bin/monitor:26:11)
+    at process.<anonymous> (/usr/lib/node_modules/forever/bin/monitor:85:5)
+    at process.EventEmitter.emit (events.js:98:17)
+    at handleMessage (child_process.js:318:10)
+    at Pipe.channel.onread (child_process.js:345:11)

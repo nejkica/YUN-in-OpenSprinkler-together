@@ -1,0 +1,4 @@
+error: Forever detected script was killed by signal: SIGABRT
+Error: unrecognized flag --max_old_size=5
+Try --help for options
+FATAL ERROR: CALL_AND_RETRY_0 Allocation failed - process out of memory

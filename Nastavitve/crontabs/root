@@ -1,0 +1,4 @@
+# ob 01:01 vsak ponedeljek izbrise log datoteke
+# ob 02:00 prvega vsak mesec reboota
+1 1 * * 1 find /root/.forever -type f -name "*.log" -exec tee {} \; </dev/null
+0 2 1 * * /sbin/reboot

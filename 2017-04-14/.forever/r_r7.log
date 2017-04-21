@@ -1,0 +1,33 @@
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+Incoming Request from: 120.24.54.163 for href: /phpMyAdmin/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/phpMyAdmin'
+Incoming Request from: 120.24.54.163 for href: /pma/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/pma'
+Incoming Request from: 120.24.54.163 for href: /myadmin/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/myadmin'
+Incoming Request from: 66.249.93.28 for href: /
+Incoming Request from: 66.249.93.28 for href: /spremeni.js
+Incoming Request from: 66.249.93.26 for href: /canvas3d.js
+Incoming Request from: 66.249.93.26 for href: /ajaxtle&nocache=919688.5005126348
+Incoming Request from: 66.249.93.28 for href: /ajaxtle&nocache=479739.7516703492
+Incoming Request from: 66.249.93.26 for href: /ajaxtle&nocache=868030.3945084411
+Incoming Request from: 66.249.93.28 for href: /ajaxtle&nocache=651768.0619136199
+Incoming Request from: 66.249.93.27 for href: /ajaxtle&nocache=508972.1366027178
+Incoming Request from: 66.249.93.27 for href: /ajaxtle&nocache=5313.616551419153
+Incoming Request from: 66.249.93.28 for href: /ajaxtle&nocache=433412.67677221994
+Incoming Request from: 66.249.93.28 for href: /ajaxtle&nocache=935511.5264438798
+Incoming Request from: 66.249.93.27 for href: /ajaxtle&nocache=665727.7139495958
+Incoming Request from: 66.249.93.26 for href: /ajaxtle&nocache=939894.3429217817
+Incoming Request from: 66.249.93.26 for href: /ajaxtle&nocache=953906.6769022051
+Incoming Request from: 66.249.93.27 for href: /ajaxtle&nocache=548369.7092101154
+Incoming Request from: 66.249.93.27 for href: /ajaxtle&nocache=488289.4696482773
+Incoming Request from: 66.249.93.27 for href: /ajaxtle&nocache=999436.9642804249
+Incoming Request from: 66.249.93.28 for href: /ajaxtle&nocache=956679.7625575667
+Incoming Request from: 66.249.93.28 for href: /ajaxtle&nocache=414226.58516360354
+Incoming Request from: 66.249.93.27 for href: /ajaxtle&nocache=420065.3916688
+Incoming Request from: 168.195.68.167 for href: /
+Incoming Request from: 89.142.55.18 for href: /
+Incoming Request from: 89.142.55.18 for href: /canvas3d.js
+Incoming Request from: 89.142.55.18 for href: /spremeni.js
+Incoming Request from: 89.142.55.18 for href: /ajaxtle&nocache=985669.766556291
+Incoming Request from: 89.142.55.18 for href: /ajaxtle&nocache=662438.1348043573

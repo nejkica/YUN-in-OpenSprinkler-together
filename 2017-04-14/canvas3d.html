@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	
+</head>
+<style type="text/css">
+	#beloCezVse {
+		background-color: rgba(255,255,255,.9);
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		position: fixed;	
+		z-index: 10;
+	}
+	#naloziDodatno {
+		background-color: rgba(128,161,214,.9);
+		color: white;
+		cursor: pointer;
+		font-family: 'Roboto', sans-serif;
+		font-size: 1em;
+		font-weight: 400;
+		left: 0;
+		padding: 10px;
+		position: absolute;
+		text-align: center;
+		top: 350px;
+		width: 400px;
+		word-wrap: normal;
+		z-index: 20;
+	}
+
+	#myCanvas {
+		width: 400px;
+		height: 400px;
+		}
+
+	@media (-webkit-min-device-pixel-ratio: 2) {
+		#naloziDodatno {
+			font-size: 3em;
+			position: absolute;
+			top: 60%;
+			width: 100%;
+		}
+
+		#myCanvas {
+			height: 100vw;
+			width: 100%;
+		}
+		
+		#visina, #casSpremembe {
+			font-family: 'Roboto', sans-serif;
+			font-size: 3em;
+			text-align: center;	
+		}
+
+		h1 {
+			font-family: 'Roboto', sans-serif;
+			font-size: 4em;
+			text-align: center;	
+		}
+	}
+</style>
+<body onload="Spremeni(); casSpremembe();">
+<h1>Nivo vode v rezervoarju</h1>
+<canvas id="myCanvas" width="400" height="400" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+<p id="visina">zadnji podatek pred ...</p>
+<p id="casSpremembe">čakam info s strežnika...</p>
+<div id="beloCezVse"></div>
+<div id="naloziDodatno">vrednost se je posodobila 50 x. Če želiš dodatnih 50 posodobitev, klikni tukaj</div>
+<script type="text/javascript" src="canvas3d.js"></script>
+
+</body>
+<script type="text/javascript" src="spremeni.js"></script>
+</html>
+
