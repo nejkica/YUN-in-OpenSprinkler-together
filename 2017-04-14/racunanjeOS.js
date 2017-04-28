@@ -7,10 +7,14 @@ var posTrenutniCas = 0;
 var casOsvezevanja = 5000; //ms
 var konzolnoSporocilo = "";
 
-//var velikostMA = 10; //število vrednosti za moving average
+Date.prototype.toLocaleDateString = function () {
+	var gm = this.getMonth() + 1;
+	if (gm.toString().length == 1) gm = '0' + gm;
 
+	return this.getFullYear() + '-' + gm + '-' + this.getDate();
+};
 //var heap = setInterval(heapdump.writeSnapshot('/var/local/' + Date.now() + '.heapsnapshot'), 60000);
-console.log('Datum\tm3 kapljicno\tm3 trata\tset point\tkolicina v rezervoarju\todstopanje\tventil');
+//console.log('Datum\tm3 kapljicno\tm3 trata\tset point\tkolicina v rezervoarju\todstopanje\tventil');
 
 var periodaF = function(){
 	var pV = podatki(); //podatki.pd so OS programcki
@@ -19,17 +23,18 @@ var periodaF = function(){
 	var trajProg = [];
 
 	var pretok = [1.0, 1.82376]; // m3/h - prvi je kapljični, drugi je trata (izmerjeno 0,5066 l/s)
-	var Vmin = 1.05; // m3 -> to je 242 mm višine
+	var Vmin = 0.9; // m3 -> to je 200 mm višine gladine
 	var Vdelta = 0.15; // m3, to je 5,76 cm -> razlika v višini - s to delto se regulira nihanje oz pogostost vklapljanja ventila za vodo
 //------------------------------------------------------------------------------------
-	var Vmax = 8.45; // m3 -> to je ca 60 litrov pred prelivanjem v ponikovalnico 
+	var Vmax = 9.0; // m3 -> max dinamični je 9.836442 m3. Max statični je 9.4,  9.0 pa je ca 92 litrov pred prelivanjem v ponikovalnico 
 //------------------------------------------------------------------------------------
 	//var ka = 818/Vmax; //linearna funkcija
 
 	//-------------------------------------------------------------------------------------------
 	var povrsina = 4.3428; // v m2 - preračunano glede na dimenzije zalogovnika: 1540x2820 mm 
-	var hVodePy = (Number(brPython.pyPreberi)).toFixed(2); // preberemo s python scriptom analog0 na arduinu in dobimo surovo vrednost 0-1023
-	if (isNaN(hVodePy)) hVodePy = Vmax;
+	var hVodeMax = (Vmax / povrsina).toFixed(4);
+	var hVodePy = (Number(brPython.pyPreberi)).toFixed(4); // preberemo s python scriptom analog0 na arduinu in dobimo surovo vrednost 0-1023
+	if (isNaN(hVodePy) || (hVodePy>= Vmax)) hVodePy = hVodeMax; // max visina
 
 	var m3Vode = (Number(hVodePy*povrsina)).toFixed(2); // toliko m3 vode je trenutno v zalogovniku
 	//-------------------------------------------------------------------------------------------
@@ -42,20 +47,17 @@ var periodaF = function(){
 		trajProg.push([trajanjePrograma(prog[i], pV.pd).trajanjeMS0, trajanjePrograma(prog[i], pV.pd).trajanjeMS1]);
 	}
 
-	//console.log(prog);
-	//console.log(startiProgramov);
-	//console.log(trajProg);
-
-	var dc = new Date(pV.osTrenutniCas);
-	var dcOffset = dc.getTimezoneOffset();
-	var dcn = new Date(pV.osTrenutniCas + dcOffset*60*1000);
+	// var dc = new Date(pV.osTrenutniCas);
+	// var dcOffset = dc.getTimezoneOffset();
+	// var dcn = new Date(pV.osTrenutniCas + dcOffset*60*1000);
 
 	var datum = new Date();
-	var msDatum = datum.getTime() - min2ms(60);
-	var dSistem = new Date(msDatum);
+
+	// var msDatum = datum.getTime() - min2ms(60);
+	// var dSistem = new Date(msDatum);
 	//dSistem = dSistem + dSistem.getTimezoneOffset();
 	//console.log('\n' + dcn);
-	konzolnoSporocilo = dSistem.getFullYear() + '-' + (Number(dSistem.getMonth())+1) + '-' + dSistem.getDate() + ' ' + (Number(dSistem.getHours())+1) + ':' + (Number(dSistem.getMinutes())+1) + ':' + Number(dSistem.getSeconds());
+	konzolnoSporocilo = datum.toLocaleDateString() + ' ' + datum.toLocaleTimeString();
 	dc = null;
 	dcn = null;
 
@@ -76,7 +78,7 @@ var periodaF = function(){
 	konzolnoSporocilo = konzolnoSporocilo + '\t' + napaka;
 	
 	if (napaka > Vdelta){ //če delta premajhen, potem ne delaj sprememb.
-		if(pV.vvD == 0){ //odpri ventil samo če je postaja oz izhod na OS omogočen.
+		if((pV.vvD === 0) && (pV.zakasnitevPadavine === 0)){ //odpri ventil samo če je postaja oz izhod na OS omogočen.
 			sprPostajo.odpriVentil();//odpri ventil
 			konzolnoSporocilo = konzolnoSporocilo + '\t1';
 		} else {
@@ -304,6 +306,7 @@ var podatki = function (){ //funkcija potegne podatke iz os.obj, ki ga vrne ./br
 	var osSunSet = min2ms(os.obj.settings.sunset);
 	var msOdPolnociV = msOdPolnoci(osTrenutniCas);
 	var koracno = os.obj.stations.stn_seq; //127 če so vklopljeni vsi kanali na sekvenčno - pomeni, da se nihkoli ne prekrivajo
+	var zakasnitevPadavine = os.obj.settings.rd;
 
 	if (koracno > 0) {
 		if ((osTrenutniCas - posTrenutniCas)>0) {
@@ -326,7 +329,8 @@ var podatki = function (){ //funkcija potegne podatke iz os.obj, ki ga vrne ./br
 		msOdPolnociV: msOdPolnociV,
 		dezZakasnitevAktiven: dezZakasnitevAktiven,
 		pd: pd,
-		vvD: vvD
+		vvD: vvD,
+		zakasnitevPadavine: zakasnitevPadavine
 	};
 
 };

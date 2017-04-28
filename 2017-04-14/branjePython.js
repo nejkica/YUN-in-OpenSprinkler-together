@@ -3,8 +3,8 @@ var pyshell = new PythonShell('test.py',{scriptPath:"/root/", pythonOptions: ['-
 
 var msg = 1023;
 var pyPreberi = 1; //m3 - 1 je približno polovica bazena
-var ka = 818/2.2; //linearna funkcija Hmax = 2.2 m
-var stElementov = 10;
+var ka = 818/2.265; //linearna funkcija Hmax = 2.265 m
+var stElementov = 36; //ker dnevni log na vsake 3 minute, po 5 s razmak. 
 var prvic = 1;
 var movAvgArr = new Array(stElementov);
 //console.log('berem python');
@@ -26,6 +26,7 @@ pyshell.on('message', function (message) {
   }
 
   pyPreberi = avg(movAvgArr);
+  if (message === 0) pyPreberi = 0;
 
   module.exports.pyPreberi = pyPreberi.toString();
   //pyPreberi = null;

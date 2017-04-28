@@ -37,10 +37,16 @@ function Spremeni(){
 					pcas=cas;
 					d=Number(this.responseText);
 					//console.log(d);
-					procent=d*100/2.2;
+					procent=d*100/2.265;
 					procent=Math.round(procent);
-					narisiCanvas(procent);
-					document.getElementById("visina").innerHTML = procent+"%";
+
+					if (procent > 0) {
+						narisiCanvas(procent);
+						$("#visina").innerHTML = procent+"%";
+					} else {
+						narisiCanvas(0);
+						$("#visina").innerHTML = "sonda je v napaki - resetiraj omarico";
+					}
 					//document.getElementById("casSpremembe").innerHTML = procent+"%";
 				}
 			}

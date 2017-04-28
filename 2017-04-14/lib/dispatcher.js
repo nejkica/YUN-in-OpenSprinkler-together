@@ -1,7 +1,7 @@
 var fs = require('fs');
 
 var branjePython = require('/root/branjePython.js');
-
+var branjeTail = require('/root/tailLog.js'); 
 //var a = 0;
 
 //function zapisiVrednost(vrednost) {
@@ -71,7 +71,36 @@ this.dispatch = function(req, res) {
       serverError(500);
     }
     
-  } else {
+  } else if (req.url == "/graf") {
+    fs.readFile('/root/chart.html', function(error, content) {
+      if (error) {
+        console.log('pošiljam 500 - 1 ' + error);
+        serverError(500);
+      } else {
+        renderHtml(content);
+      }
+    });
+    
+  } else if (ajaxtleVar[0]=='chart') {
+    try {
+      var obdobje = ajaxtleVar[1];
+
+      var ctn = branjeTail.tail(obdobje, function(rtrn){
+        // console.log(rtrn);
+        // return rtrn;
+        renderAjax(rtrn);
+      });
+      //console.log("tole vrne: " + content);
+      //branjeTail = null;
+      //console.log('pošiljam ajax');
+
+    } catch (err) {
+      //handle errors gracefully
+      //console.log(err);
+      console.log('pošiljam 500 - 3: ' + err );
+      serverError(500);
+    }
+  } else {  
     //var prvi   = parts[0];
     var drugi = parts[1];
 

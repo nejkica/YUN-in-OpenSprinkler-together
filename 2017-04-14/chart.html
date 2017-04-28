@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.js"></script>
+	
+	<style type="text/css">
+		#graf {
+		    bottom: 0;
+		    left: 50%;
+		    max-height: 800px;
+		    max-width: 1000px;
+		    min-height: 400px;
+		    min-width: 400px;
+		    position: absolute;
+		    top: 10%;
+		    transform: translateX(-50%);
+		    width: 95%;
+		}
+
+		#myChart {
+			height: 100%;
+		}
+
+		.naslov {
+			height: 10%;
+		}
+
+		.gumbiObdobje {
+		    bottom: 10px;
+			display: inline-block;
+		    height: 60px;
+		    left: 50%;
+		    margin: 0;
+		    max-width: 900px;
+		    min-width: 500px;
+		    padding: 0 0 0 0;
+		    position: absolute;
+		    transform: translateX(-50%);
+		    width: 90%;
+		}
+			
+		.gumb {
+		    background-color: rgb(20, 120, 190);
+		    background-color: rgba(20, 120, 190, 0.8);
+		    cursor: pointer;
+		    display: inline-block;
+		    height: 100%;
+		    width: 32%;
+		    margin: 0;
+		}
+
+		h1 {
+			font-family: 'Roboto', sans-serif;
+			font-size: 1.5em;
+			text-align: center;
+
+			}
+
+		a {
+			display: block;
+		    font-family: 'Roboto', sans-serif;
+		    font-size: 1.2em;
+		    font-weight: 500;
+		    color: #FFF;
+		    position: relative;
+		    text-align: center;
+		    text-decoration: none;
+		    padding-top: 20px;
+		}
+
+		@media (-webkit-min-device-pixel-ratio: 2) { /* na telefonu */
+			#graf {
+				height: 80%;
+				max-height: none;
+				width: 98%;
+			}
+
+			#myChart {
+				height: 100%;
+				width: 100%
+			}
+			
+			.naslov {
+				height: 10vw;
+			}
+
+			h1 {
+				font-family: 'Roboto', sans-serif;
+				font-size: 4em;
+				text-align: center;	
+			}
+
+			a {
+				font-size: 3.0em;
+				padding-top: 55px;
+			}
+
+			.gumbiObdobje {
+				height: 10%;
+				width: 100%;
+
+			}
+			
+		}
+	</style>
+</head>
+<body onload="prejmiPodatke('d')">
+	<div class="naslov">
+		<h1>Nivo vode v rezervoarju</h1>
+		
+	</div>
+	<div id="graf">
+		<canvas id="myChart" width="400" height="400">
+		Your browser does not support the HTML5 canvas tag.</canvas>
+		
+	</div>
+
+	<div class="gumbiObdobje">
+		<div class="gumb gumbD">
+			<a class="dnevniA">Dnevni</a>
+		</div>
+		<div class="gumb gumbT">
+			<a class="tedenskiA">Tedenski</a>
+		</div>
+		<div class="gumb gumbM">
+			<a class="mesecniA">Mesečni</a>
+		</div>
+	</div>
+</body>
+<script type="text/javascript" src="chart.js"></script>
+</html>
+

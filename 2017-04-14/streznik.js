@@ -25,9 +25,9 @@ http.createServer(function (req, res) {
   //or the node js server will crash upon any code errors
   try {
     //pipe some details to the node console
-    console.log('Incoming Request from: ' + req.connection.remoteAddress + ' for href: ' + url.parse(req.url).href);
-    //console.log('\n' + req);
+    var d = new Date();
 
+    console.log(d.toISOString() + ' Incoming Request from: ' + req.connection.remoteAddress + ' for href: ' + url.parse(req.url).href);
 
   //dispatch our request
   dispatcher.dispatch(req, res);
