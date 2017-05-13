@@ -37,6 +37,7 @@ function aktivniGumb(termin) {
 function prejmiPodatke (termin) {
 	// console.log('prejmiPodatke ' + termin);
 	aktivniGumb(termin);
+	$('.loader').show();
 	//var nalepke = new Array();
 	var res = '';
 	var nalepke = new Array(0);
@@ -84,6 +85,9 @@ function prejmiPodatke (termin) {
 }
 
 function narisiGraf (dataIn, labelsIn, termin) {
+
+	$('.loader').hide();
+
 	var dpr = window.devicePixelRatio;
 	var fontSz = 18;
 
@@ -93,12 +97,33 @@ function narisiGraf (dataIn, labelsIn, termin) {
 	if (termin == 'd') {
 		delitev = 'hour';
 		razdelitev = 2;
+		displayFormats = {
+			'minute': 'DD.MM.YYYY HH:mm',
+			'hour': 'DD.MM.YYYY HH:mm',
+		    'day': 'DD.MM.YYYY HH:mm',
+		    'month': 'DD.MM.YYYY HH:mm',
+		    'year': 'DD.MM.YYYY HH:mm'
+		};
 	} else if (termin == 't') {
 		delitev = 'hour';
-		razdelitev = 4;
+		razdelitev = 12;
+		displayFormats = {
+			'minute': 'DD.MM.YYYY HH:mm',
+			'hour': 'DD.MM.YYYY HH:mm',
+		    'day': 'DD.MM.YYYY HH:mm',
+		    'month': 'DD.MM.YYYY HH:mm',
+		    'year': 'DD.MM.YYYY HH:mm'
+		};
 	} else if (termin == 'm') {
 		delitev = 'day';
 		razdelitev = 2;
+		displayFormats = {
+			'minute': 'DD.MM.YYYY',
+			'hour': 'DD.MM.YYYY',
+		    'day': 'DD.MM.YYYY',
+		    'month': 'DD.MM.YYYY',
+		    'year': 'DD.MM.YYYY'
+		};
 	}
 
 	if (myLineChart !== undefined) myLineChart.destroy();
@@ -112,7 +137,7 @@ function narisiGraf (dataIn, labelsIn, termin) {
 	    labels: labelsIn,
 	    datasets: [
 	        {
-	            label: "Nivo vode v rezervoarju [m3]",
+	            label: "Nivo vode",
 	            fill: true,
 	            lineTension: 0.1,
 	            backgroundColor: "rgba(75,192,192,0.4)",
@@ -148,40 +173,77 @@ function narisiGraf (dataIn, labelsIn, termin) {
 					                	time: {
 					                		unit: delitev,
 					                		unitStepSize: razdelitev,
-											displayFormats: {
-											   'minute': 'DD.MM.YYYY HH:mm',
-											   'hour': 'DD.MM.YYYY HH:mm',
-											   'day': 'DD.MM.YYYY HH:mm',
-											   'month': 'DD.MM.YYYY HH:mm',
-											   'year': 'DD.MM.YYYY HH:mm'
-											},
+											displayFormats: displayFormats,
+											tooltipFormat: 'DD.MM.YYYY HH:mm',
+											// max: new Date('2017-04-28 18:00')
 					                	},
 					                	ticks: {
 						                    fontSize: fontSz,
-						                    minRotation: 90
+						                    minRotation: 90,
+						                    labelOffset: -5
 						                }
 					            		}],
 					        	yAxes: [
 					        			{
+					        			id: 'A',
+					        			position: 'left',
 							            ticks: 
 							            	{
 							            		min: 0,
 							            		max: 10,
 							            		stepSize: 0.5,
-							            		fontSize: fontSz
+							            		fontSize: fontSz,
+			                            		callback: function(value, index, values) {
+              										return value.toFixed(1).toString().split(".").join(",");
+            									}
+			                            	},
+			                            scaleLabel: {
+			                            	display: true,
+			                            	labelString: 'm3 vode v rezervoarju',
+			                            	fontSize: fontSz
+			                            	}
+										},
+										{
+					        			id: 'B',
+					        			position: 'right',
+					        			gridLines: {
+					        				display: false	
+					        			},
+							            ticks: 
+							            	{
+							       
+							            		min: 0,
+							            		max: 226.5,
+							            		stepSize: 11.325,
+							            		fontSize: fontSz-4,
+			                            		callback: function(value, index, values) {
+              										return value.toFixed(0).toString().split(".").join(",");
+            									}
+			                            	},
+			                            scaleLabel: {
+			                            	display: true,
+			                            	labelString: 'višina vode v rezervoarju [cm]',
+			                            	fontSize: fontSz-4
 			                            	}
 										}
 										]
 					    			},
 					    	legend: {
-					            display: true,
+					            display: false,
 					            labels: {
 					                fontSize: fontSz
 					            	}
+        						},
+        					tooltips: {
+						        callbacks: {
+							        label: function(tooltipItem, data) {
+							        	var d = data.datasets[0].label + ': ' + tooltipItem.yLabel + ' m3';
+							        	return d;
+							        }
         						}
+						    }
 					    	}
 					});
-	
 	// myLineChart.destroy();
 }
 

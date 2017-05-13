@@ -6,6 +6,23 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.js"></script>
 	
 	<style type="text/css">
+		.loader {
+			border: 16px solid #f3f3f3;
+			border-top: 16px solid red;
+			border-radius: 50%;
+			width: 120px;
+			height: 120px;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			animation: spin 2s cubic-bezier(0.51, -0.3, 0.27, 1.55)infinite;
+		}
+
+		@keyframes spin {
+		    0% { transform: translate(-50%,-50%) rotate(0deg); }
+		    100% { transform: translate(-50%,-50%) rotate(360deg); }
+		}
+
 		#graf {
 		    bottom: 0;
 		    left: 50%;
@@ -38,6 +55,7 @@
 		    padding: 0 0 0 0;
 		    position: absolute;
 		    transform: translateX(-50%);
+		    text-align: center;
 		    width: 90%;
 		}
 			
@@ -127,6 +145,9 @@
 		<div class="gumb gumbM">
 			<a class="mesecniA">Mesečni</a>
 		</div>
+	</div>
+	<div class="loader">
+		
 	</div>
 </body>
 <script type="text/javascript" src="chart.js"></script>

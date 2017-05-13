@@ -8,6 +8,9 @@ var stElementov = 36; //ker dnevni log na vsake 3 minute, po 5 s razmak.
 var prvic = 1;
 var movAvgArr = new Array(stElementov);
 //console.log('berem python');
+
+var alfa = 0.985;
+
 	//try {
 pyshell.on('message', function (message) {
   // received a message sent from the Python script (a simple "print" statement)
@@ -16,18 +19,19 @@ pyshell.on('message', function (message) {
   msg = (msg-205)/ka;
   
   if (prvic==1) {
-  	for (var i = 0; i < movAvgArr.length; i++) {
-  		movAvgArr[i] = msg;
-  	}
+  	pyPreberi=msg;
   	prvic = 0;
   } else {
-  	movAvgArr.splice(0, 1);
-  	movAvgArr.push(msg);
+
   }
 
-  pyPreberi = avg(movAvgArr).toFixed(3);
-  if (message == 0) pyPreberi = 0;
+  pyPreberi = (1 - alfa) * msg + alfa * pyPreberi;
 
+  pyPreberi = pyPreberi.toFixed(3);
+  
+  if (message === 0) pyPreberi = 0;
+
+  //console.log(msg.toFixed(3) + '\t' + pyPreberi + '\t' + (pyPreberi * 4.3428).toFixed(2));
   module.exports.pyPreberi = pyPreberi.toString();
   //pyPreberi = null;
 });
@@ -38,12 +42,3 @@ pyshell.end(function (err) {
   // console.log('finished');
 });
 
-function avg(arr) {
-    var l = arr.length;
-    var sum = 0;
-    for(var i = 0; i<arr.length;i++){
-        sum += arr[i];
-    }
-
-    return sum/arr.length;
-}

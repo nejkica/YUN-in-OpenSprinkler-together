@@ -1,4 +1,30 @@
-# ob 01:01 vsak ponedeljek izbrise log datoteke
-# ob 02:00 prvega vsak mesec reboota
-1 1 * * 1 find /root/.forever -type f -name "*.log" -exec tee {} \; </dev/null
-0 2 1 * * /sbin/reboot
+# ob 01:01 vsakega prvega v mesecu izbrise log datoteke
+1 1 1 * * find /root/.forever -type f -name "*.log" -exec tee {} \; </dev/null
+
+# ---------------- upload log na streznik ---------------
+# vsak dan upload log datoteke minuto pred zadnjim reboot (23:59)
+59 23 * * * /root/scripts/curlOwnCloud.sh
+# -------------------------------------------------------
+
+#59 23 * * * /root/scripts/kompaktirajLog.sh
+
+# --------------- log za web app ------------------------
+# vsake 3 minute naredi 1 vnos v dnevni.log in zacetek dneva kompaktiraj na zadnjih 480 vrstic
+1-59/3 * * * * /root/scripts/dnevni.sh
+2 2 * * * /root/scripts/dnevniKompakt.sh
+# vsake 15 minut naredi 1 vnos v tedenski.log in zacetek dneva kompaktiraj na zadnjih 672 vrstic
+*/15 * * * * /root/scripts/tedenski.sh
+3 3 */3 * * /root/scripts/tedenskiKompakt.sh
+# vsako 1 uro naredi 1 vnos v mesecni.log in zacetek dneva kompaktiraj na zadnjih 720 vrstic
+12 */1 * * * /root/scripts/mesecni.sh
+5 4 * * 1 /root/scripts/mesecniKompakt.sh
+# -------------------------------------------------------
+
+# ---------------- ponovni zagon ------------------------
+32 */6 * * * /sbin/reboot
+# -------------------------------------------------------
+
+
+
+# free -m log v /root/scripts/free.log
+#*/10 * * * * /root/scripts/freeLog.sh

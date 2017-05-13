@@ -2,6 +2,7 @@ var fs = require('fs');
 
 var branjePython = require('/root/branjePython.js');
 var branjeTail = require('/root/tailLog.js'); 
+// var zlib = require('zlib');
 //var a = 0;
 
 //function zapisiVrednost(vrednost) {
@@ -32,6 +33,24 @@ this.dispatch = function(req, res) {
   };
 
   var renderAjax = function(content) {
+    // var acceptEncoding = req.headers['accept-encoding'];
+    // var input = new Buffer(content, 'utf-8');
+    // if (!acceptEncoding) {
+    //   acceptEncoding = '';
+    // }
+
+    // if (acceptEncoding.match(/\bdeflate\b/)) {
+    //   res.writeHead(200, { 'Content-Encoding': 'deflate' });
+    //   content = zlib.Deflate(input);
+    // } else if (acceptEncoding.match(/\bgzip\b/)) {
+    //   res.writeHead(200, { 'Content-Encoding': 'gzip' });
+    //   content = zlib.Gzip(input);
+    // } else {
+    //   res.writeHead(200, {'Content-Type': 'text/plain'});
+    //   // content.pipe(res);
+    // }
+
+    
     res.writeHead(200, {'Content-Type': 'text/plain'});
     res.end(content, 'utf-8');
     content = null;

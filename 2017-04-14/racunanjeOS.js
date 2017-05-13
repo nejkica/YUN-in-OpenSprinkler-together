@@ -1,13 +1,16 @@
 var os = require('./branjeOS.js');
 var sprPostajo = require('./sprPostajo.js');
-var brPython = require('./branjePython.js');
+var brPython = require('./branjePyLPF.js');
+var napakaSonde = require('./napakaSondeReboot.js');
 //var heapdump = require('/root/heapdump/heapdump.js');
 
 var posTrenutniCas = 0;
 var casOsvezevanja = 5000; //ms
 var konzolnoSporocilo = "";
+var stevecNapak = 0;
+var m3Vode = 10;
 
-Date.prototype.toLocaleDateString = function () {
+Date.prototype.toLocaleDateString = function () { //da imamo leading zero v formatu datuma v log fajlu in potem na spletnem vmesniku
 	var gm = this.getMonth() + 1;
 	if (gm.toString().length == 1) gm = '0' + gm;
 
@@ -26,17 +29,27 @@ var periodaF = function(){
 	var Vmin = 0.9; // m3 -> to je 200 mm višine gladine
 	var Vdelta = 0.15; // m3, to je 5,76 cm -> razlika v višini - s to delto se regulira nihanje oz pogostost vklapljanja ventila za vodo
 //------------------------------------------------------------------------------------
-	var Vmax = 9.0; // m3 -> max dinamični je 9.836442 m3. Max statični je 9.4,  9.0 pa je ca 92 litrov pred prelivanjem v ponikovalnico 
+	var Vmax = 8.7; // m3 -> max dinamični je 9.836442 m3. Max statični je 8.9,  8.7 pa je ca 200 litrov pred prelivanjem v ponikovalnico, kar je ca 4,6 cm. skala je približno 43,428 l/cm višine.
 //------------------------------------------------------------------------------------
 	//var ka = 818/Vmax; //linearna funkcija
 
 	//-------------------------------------------------------------------------------------------
 	var povrsina = 4.3428; // v m2 - preračunano glede na dimenzije zalogovnika: 1540x2820 mm 
 	var hVodeMax = (Vmax / povrsina).toFixed(4);
-	var hVodePy = (Number(brPython.pyPreberi)).toFixed(4); // preberemo s python scriptom analog0 na arduinu in dobimo surovo vrednost 0-1023
+	var hVodePy = (Number(brPython.pyPreberi)).toFixed(4); // preberemo s python scriptom analog0 na arduinu in dobimo m3
 	if (isNaN(hVodePy) || (hVodePy>= Vmax)) hVodePy = hVodeMax; // max visina
+	
+	if (hVodePy <= 0) { //če sonda javlja 0, potem je napaka. Ker branjePython.js že sam nekaj računa, to da vrednost -2.45
+		stevecNapak += 1;
+		if (stevecNapak > 5) {
+			napakaSonde.reboot();
+		}
+	} else {
+		stevecNapak = 0;
+		m3Vode = (Number(hVodePy*povrsina)).toFixed(2); // toliko m3 vode je trenutno v zalogovniku
+	}
 
-	var m3Vode = (Number(hVodePy*povrsina)).toFixed(2); // toliko m3 vode je trenutno v zalogovniku
+
 	//-------------------------------------------------------------------------------------------
 	//console.log('\033[2C');
 	//console.log(pV.osTrenutniCas);

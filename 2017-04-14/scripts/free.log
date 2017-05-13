@@ -1,0 +1,814 @@
+
+Sun Apr 23 00:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        54960         6364            0         5696
+-/+ buffers:              49264        12060
+Swap:       524284        36824       487460
+
+Sun Apr 23 01:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60060         1264            0         4912
+-/+ buffers:              55148         6176
+Swap:       524284        32148       492136
+
+Sun Apr 23 01:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60004         1320            0         4740
+-/+ buffers:              55264         6060
+Swap:       524284        31996       492288
+
+Sun Apr 23 01:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60020         1304            0         5104
+-/+ buffers:              54916         6408
+Swap:       524284        31896       492388
+
+Sun Apr 23 01:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60048         1276            0         3772
+-/+ buffers:              56276         5048
+Swap:       524284        33568       490716
+
+Sun Apr 23 01:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59996         1328            0         4504
+-/+ buffers:              55492         5832
+Swap:       524284        33024       491260
+ 01:40:01 up  1:39,  load average: 0.04, 0.10, 0.12
+
+Sun Apr 23 01:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60200         1124            0         4636
+-/+ buffers:              55564         5760
+Swap:       524284        32856       491428
+ 01:50:01 up  1:49,  load average: 0.08, 0.09, 0.12
+
+Sun Apr 23 02:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60056         1268            0         4928
+-/+ buffers:              55128         6196
+Swap:       524284        32780       491504
+ 02:00:01 up  1:59,  load average: 0.11, 0.08, 0.11
+
+Sun Apr 23 02:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60128         1196            0         5268
+-/+ buffers:              54860         6464
+Swap:       524284        32688       491596
+ 02:10:01 up  2:09,  load average: 0.09, 0.09, 0.12
+
+Sun Apr 23 02:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59864         1460            0         5496
+-/+ buffers:              54368         6956
+Swap:       524284        32680       491604
+ 02:20:01 up  2:19,  load average: 0.10, 0.08, 0.11
+
+Sun Apr 23 02:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60032         1292            0         5912
+-/+ buffers:              54120         7204
+Swap:       524284        32636       491648
+ 02:30:01 up  2:29,  load average: 0.04, 0.10, 0.12
+
+Sun Apr 23 02:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60236         1088            0         6260
+-/+ buffers:              53976         7348
+Swap:       524284        32540       491744
+ 02:40:01 up  2:39,  load average: 0.26, 0.14, 0.14
+
+Sun Apr 23 02:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60224         1100            0         6596
+-/+ buffers:              53628         7696
+Swap:       524284        32512       491772
+ 02:50:01 up  2:49,  load average: 0.05, 0.07, 0.11
+
+Sun Apr 23 03:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60104         1220            0         6220
+-/+ buffers:              53884         7440
+Swap:       524284        32396       491888
+ 03:00:01 up  2:59,  load average: 0.11, 0.12, 0.12
+
+Sun Apr 23 03:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60020         1304            0         6148
+-/+ buffers:              53872         7452
+Swap:       524284        32304       491980
+ 03:10:01 up  3:09,  load average: 0.00, 0.07, 0.11
+
+Sun Apr 23 03:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60104         1220            0         6092
+-/+ buffers:              54012         7312
+Swap:       524284        32208       492076
+ 03:20:01 up  3:19,  load average: 0.03, 0.06, 0.10
+
+Sun Apr 23 03:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60008         1316            0         5872
+-/+ buffers:              54136         7188
+Swap:       524284        32116       492168
+ 03:30:01 up  3:29,  load average: 0.01, 0.10, 0.12
+
+Sun Apr 23 03:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60104         1220            0         4428
+-/+ buffers:              55676         5648
+Swap:       524284        31216       493068
+ 03:40:01 up  3:39,  load average: 0.16, 0.12, 0.12
+
+Sun Apr 23 03:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60220         1104            0         4472
+-/+ buffers:              55748         5576
+Swap:       524284        31120       493164
+ 03:50:01 up  3:49,  load average: 0.04, 0.07, 0.11
+
+Sun Apr 23 04:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60244         1080            0         4820
+-/+ buffers:              55424         5900
+Swap:       524284        31008       493276
+ 04:00:01 up  3:59,  load average: 0.13, 0.09, 0.10
+
+Sun Apr 23 04:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60052         1272            0         4776
+-/+ buffers:              55276         6048
+Swap:       524284        30888       493396
+ 04:10:01 up  4:09,  load average: 0.13, 0.08, 0.09
+
+Sun Apr 23 04:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60016         1308            0         4884
+-/+ buffers:              55132         6192
+Swap:       524284        30784       493500
+ 04:20:01 up  4:19,  load average: 0.03, 0.05, 0.06
+
+Sun Apr 23 04:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60252         1072            0         5304
+-/+ buffers:              54948         6376
+Swap:       524284        30696       493588
+ 04:30:01 up  4:29,  load average: 0.02, 0.06, 0.06
+
+Sun Apr 23 04:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59972         1352            0         5072
+-/+ buffers:              54900         6424
+Swap:       524284        30604       493680
+ 04:40:01 up  4:39,  load average: 0.05, 0.07, 0.05
+
+Sun Apr 23 04:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59960         1364            0         5040
+-/+ buffers:              54920         6404
+Swap:       524284        30500       493784
+ 04:50:01 up  4:49,  load average: 0.03, 0.05, 0.04
+
+Sun Apr 23 05:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60200         1124            0         5204
+-/+ buffers:              54996         6328
+Swap:       524284        30404       493880
+ 05:00:01 up  4:59,  load average: 0.08, 0.09, 0.06
+
+Sun Apr 23 05:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59996         1328            0         5096
+-/+ buffers:              54900         6424
+Swap:       524284        30296       493988
+ 05:10:01 up  5:09,  load average: 0.03, 0.09, 0.06
+
+Sun Apr 23 05:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60164         1160            0         5588
+-/+ buffers:              54576         6748
+Swap:       524284        30200       494084
+ 05:20:01 up  5:19,  load average: 0.01, 0.06, 0.04
+
+Sun Apr 23 05:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60020         1304            0         5436
+-/+ buffers:              54584         6740
+Swap:       524284        30104       494180
+ 05:30:01 up  5:29,  load average: 0.03, 0.07, 0.04
+
+Sun Apr 23 05:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60056         1268            0         5408
+-/+ buffers:              54648         6676
+Swap:       524284        30012       494272
+ 05:40:01 up  5:39,  load average: 0.12, 0.11, 0.07
+
+Sun Apr 23 05:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60068         1256            0         5340
+-/+ buffers:              54728         6596
+Swap:       524284        29912       494372
+ 05:50:01 up  5:49,  load average: 0.02, 0.06, 0.05
+
+Sun Apr 23 06:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59940         1384            0         4864
+-/+ buffers:              55076         6248
+Swap:       524284        29816       494468
+ 06:00:01 up  5:59,  load average: 0.10, 0.12, 0.08
+
+Sun Apr 23 06:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59712         1612            0         2848
+-/+ buffers:              56864         4460
+Swap:       524284        24508       499776
+ 06:10:01 up 8 min,  load average: 0.22, 1.29, 0.88
+
+Sun Apr 23 06:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59584         1740            0         2240
+-/+ buffers:              57344         3980
+Swap:       524284        25156       499128
+ 06:20:01 up 18 min,  load average: 0.13, 0.33, 0.55
+
+Sun Apr 23 06:30:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59732         1592            0         1872
+-/+ buffers:              57860         3464
+Swap:       524284        28852       495432
+ 06:30:02 up 28 min,  load average: 0.06, 0.23, 0.44
+
+Sun Apr 23 06:40:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59276         2048            0         1988
+-/+ buffers:              57288         4036
+Swap:       524284        29004       495280
+ 06:40:02 up 38 min,  load average: 0.03, 0.09, 0.28
+
+Sun Apr 23 06:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59680         1644            0         2080
+-/+ buffers:              57600         3724
+Swap:       524284        28988       495296
+ 06:50:01 up 48 min,  load average: 0.03, 0.10, 0.20
+
+Sun Apr 23 07:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59560         1764            0         2340
+-/+ buffers:              57220         4104
+Swap:       524284        28916       495368
+ 07:00:01 up 58 min,  load average: 0.05, 0.13, 0.18
+
+Sun Apr 23 07:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59728         1596            0         2252
+-/+ buffers:              57476         3848
+Swap:       524284        28900       495384
+ 07:10:01 up  1:08,  load average: 0.13, 0.16, 0.18
+
+Sun Apr 23 07:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59604         1720            0         1616
+-/+ buffers:              57988         3336
+Swap:       524284        28156       496128
+ 07:20:01 up  1:18,  load average: 0.84, 0.38, 0.24
+
+Sun Apr 23 07:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59568         1756            0         2000
+-/+ buffers:              57568         3756
+Swap:       524284        28776       495508
+ 07:30:02 up  1:28,  load average: 0.11, 0.15, 0.19
+
+Sun Apr 23 07:40:03 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59588         1736            0         2076
+-/+ buffers:              57512         3812
+Swap:       524284        28968       495316
+ 07:40:03 up  1:38,  load average: 0.05, 0.11, 0.17
+
+Sun Apr 23 07:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59680         1644            0         2072
+-/+ buffers:              57608         3716
+Swap:       524284        29044       495240
+ 07:50:01 up  1:48,  load average: 0.13, 0.08, 0.13
+
+Sun Apr 23 08:00:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59616         1708            0         2068
+-/+ buffers:              57548         3776
+Swap:       524284        29076       495208
+ 08:00:02 up  1:58,  load average: 0.14, 0.08, 0.12
+
+Sun Apr 23 08:10:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59476         1848            0         2160
+-/+ buffers:              57316         4008
+Swap:       524284        29440       494844
+ 08:10:02 up  2:08,  load average: 0.18, 0.14, 0.14
+
+Sun Apr 23 08:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59568         1756            0         2184
+-/+ buffers:              57384         3940
+Swap:       524284        29428       494856
+ 08:20:01 up  2:18,  load average: 0.04, 0.06, 0.11
+
+Sun Apr 23 08:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59580         1744            0         2076
+-/+ buffers:              57504         3820
+Swap:       524284        29416       494868
+ 08:30:01 up  2:28,  load average: 0.01, 0.07, 0.11
+
+Sun Apr 23 08:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59604         1720            0         1984
+-/+ buffers:              57620         3704
+Swap:       524284        30600       493684
+ 08:40:01 up  2:38,  load average: 0.49, 0.34, 0.24
+
+Sun Apr 23 08:50:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59424         1900            0         2016
+-/+ buffers:              57408         3916
+Swap:       524284        30660       493624
+ 08:50:02 up  2:48,  load average: 0.07, 0.07, 0.13
+
+Sun Apr 23 09:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59664         1660            0         2280
+-/+ buffers:              57384         3940
+Swap:       524284        30788       493496
+ 09:00:01 up  2:58,  load average: 0.11, 0.11, 0.13
+
+Sun Apr 23 09:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59736         1588            0         2676
+-/+ buffers:              57060         4264
+Swap:       524284        30804       493480
+ 09:10:01 up  3:08,  load average: 0.16, 0.18, 0.15
+
+Sun Apr 23 09:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59640         1684            0         2368
+-/+ buffers:              57272         4052
+Swap:       524284        31308       492976
+ 09:20:02 up  3:18,  load average: 0.13, 0.14, 0.13
+
+Sun Apr 23 09:30:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59444         1880            0         2512
+-/+ buffers:              56932         4392
+Swap:       524284        31496       492788
+ 09:30:02 up  3:28,  load average: 0.05, 0.10, 0.13
+
+Sun Apr 23 09:40:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59572         1752            0         2160
+-/+ buffers:              57412         3912
+Swap:       524284        30888       493396
+ 09:40:02 up  3:38,  load average: 0.03, 0.10, 0.13
+
+Sun Apr 23 09:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59548         1776            0         2224
+-/+ buffers:              57324         4000
+Swap:       524284        30896       493388
+ 09:50:01 up  3:48,  load average: 0.16, 0.12, 0.13
+
+Sun Apr 23 10:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59676         1648            0         2120
+-/+ buffers:              57556         3768
+Swap:       524284        30836       493448
+ 10:00:01 up  3:58,  load average: 0.11, 0.18, 0.16
+
+Sun Apr 23 10:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59676         1648            0         2212
+-/+ buffers:              57464         3860
+Swap:       524284        31160       493124
+ 10:10:01 up  4:08,  load average: 0.01, 0.15, 0.19
+
+Sun Apr 23 10:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59492         1832            0         2048
+-/+ buffers:              57444         3880
+Swap:       524284        31212       493072
+ 10:20:01 up  4:18,  load average: 0.17, 0.24, 0.23
+
+Sun Apr 23 10:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59544         1780            0         2188
+-/+ buffers:              57356         3968
+Swap:       524284        31860       492424
+ 10:30:01 up  4:28,  load average: 0.55, 0.33, 0.27
+
+Sun Apr 23 10:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59520         1804            0         2028
+-/+ buffers:              57492         3832
+Swap:       524284        31848       492436
+ 10:40:01 up  4:38,  load average: 0.30, 0.31, 0.30
+
+Sun Apr 23 10:50:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59628         1696            0         2408
+-/+ buffers:              57220         4104
+Swap:       524284        31916       492368
+ 10:50:02 up  4:48,  load average: 0.02, 0.10, 0.20
+
+Sun Apr 23 11:00:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59688         1636            0         2128
+-/+ buffers:              57560         3764
+Swap:       524284        32124       492160
+ 11:00:02 up  4:58,  load average: 0.21, 0.23, 0.23
+
+Sun Apr 23 11:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59520         1804            0         2288
+-/+ buffers:              57232         4092
+Swap:       524284        32060       492224
+ 11:10:01 up  5:08,  load average: 0.06, 0.09, 0.16
+
+Sun Apr 23 11:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59516         1808            0         2264
+-/+ buffers:              57252         4072
+Swap:       524284        32112       492172
+ 11:20:01 up  5:18,  load average: 0.04, 0.09, 0.13
+
+Sun Apr 23 11:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59684         1640            0         2208
+-/+ buffers:              57476         3848
+Swap:       524284        32228       492056
+ 11:30:01 up  5:28,  load average: 0.06, 0.16, 0.16
+
+Sun Apr 23 11:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59564         1760            0         2220
+-/+ buffers:              57344         3980
+Swap:       524284        32436       491848
+ 11:40:01 up  5:38,  load average: 0.00, 0.12, 0.16
+
+Sun Apr 23 11:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59668         1656            0         2328
+-/+ buffers:              57340         3984
+Swap:       524284        32732       491552
+ 11:50:01 up  5:48,  load average: 0.03, 0.18, 0.20
+
+Sun Apr 23 12:00:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59236         2088            0         2336
+-/+ buffers:              56900         4424
+Swap:       524284        32840       491444
+ 12:00:02 up  5:58,  load average: 0.03, 0.12, 0.17
+
+Sun Apr 23 12:10:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60104         1220            0         2500
+-/+ buffers:              57604         3720
+Swap:       524284        23076       501208
+ 12:10:02 up 8 min,  load average: 0.17, 1.07, 0.77
+
+Sun Apr 23 12:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60056         1268            0         1932
+-/+ buffers:              58124         3200
+Swap:       524284        24724       499560
+ 12:20:01 up 18 min,  load average: 0.13, 0.32, 0.52
+
+Sun Apr 23 12:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59864         1460            0         2088
+-/+ buffers:              57776         3548
+Swap:       524284        25484       498800
+ 12:30:01 up 28 min,  load average: 0.81, 0.33, 0.38
+
+Sun Apr 23 12:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60044         1280            0         2380
+-/+ buffers:              57664         3660
+Swap:       524284        25664       498620
+ 12:40:01 up 38 min,  load average: 0.12, 0.12, 0.24
+
+Sun Apr 23 12:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60072         1252            0         2092
+-/+ buffers:              57980         3344
+Swap:       524284        25708       498576
+ 12:50:01 up 48 min,  load average: 0.06, 0.07, 0.16
+
+Sun Apr 23 13:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59892         1432            0         2300
+-/+ buffers:              57592         3732
+Swap:       524284        25804       498480
+ 13:00:01 up 58 min,  load average: 0.11, 0.16, 0.17
+
+Sun Apr 23 13:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60040         1284            0         2760
+-/+ buffers:              57280         4044
+Swap:       524284        26284       498000
+ 13:10:01 up  1:08,  load average: 0.30, 0.21, 0.17
+
+Sun Apr 23 13:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60012         1312            0         2476
+-/+ buffers:              57536         3788
+Swap:       524284        26352       497932
+ 13:20:01 up  1:18,  load average: 0.05, 0.09, 0.13
+
+Sun Apr 23 13:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60048         1276            0         2264
+-/+ buffers:              57784         3540
+Swap:       524284        26372       497912
+ 13:30:01 up  1:28,  load average: 0.02, 0.10, 0.12
+
+Sun Apr 23 13:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60264         1060            0         2560
+-/+ buffers:              57704         3620
+Swap:       524284        26544       497740
+ 13:40:01 up  1:38,  load average: 0.05, 0.06, 0.11
+
+Sun Apr 23 13:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60096         1228            0         2704
+-/+ buffers:              57392         3932
+Swap:       524284        26940       497344
+ 13:50:01 up  1:48,  load average: 0.18, 0.12, 0.12
+
+Sun Apr 23 14:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59940         1384            0         2672
+-/+ buffers:              57268         4056
+Swap:       524284        27172       497112
+ 14:00:01 up  1:58,  load average: 0.14, 0.11, 0.12
+
+Sun Apr 23 14:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60072         1252            0         2716
+-/+ buffers:              57356         3968
+Swap:       524284        27432       496852
+ 14:10:01 up  2:08,  load average: 0.08, 0.07, 0.11
+
+Sun Apr 23 14:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59952         1372            0         2496
+-/+ buffers:              57456         3868
+Swap:       524284        27660       496624
+ 14:20:01 up  2:18,  load average: 0.14, 0.11, 0.12
+
+Sun Apr 23 14:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59868         1456            0         3312
+-/+ buffers:              56556         4768
+Swap:       524284        29560       494724
+ 14:30:01 up  2:28,  load average: 0.30, 0.18, 0.14
+
+Sun Apr 23 14:40:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59944         1380            0         1672
+-/+ buffers:              58272         3052
+Swap:       524284        16976       507308
+ 14:40:02 up 5 min,  load average: 0.31, 0.80, 0.44
+
+Sun Apr 23 14:50:54 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        44072        17252            0         8192
+-/+ buffers:              35880        25444
+Swap:       524284          616       523668
+ 14:50:54 up 2 min,  load average: 0.84, 0.60, 0.24
+
+Sun Apr 23 15:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        46256        15068            0         8332
+-/+ buffers:              37924        23400
+Swap:       524284          668       523616
+ 15:00:01 up 1 min,  load average: 1.64, 0.56, 0.20
+
+Sun Apr 23 15:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60288         1036            0         1976
+-/+ buffers:              58312         3012
+Swap:       524284        23620       500664
+ 15:10:01 up 10 min,  load average: 0.31, 0.51, 0.38
+
+Sun Apr 23 15:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60132         1192            0         2208
+-/+ buffers:              57924         3400
+Swap:       524284        23652       500632
+ 15:20:01 up 20 min,  load average: 0.04, 0.11, 0.22
+
+Sun Apr 23 15:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60108         1216            0         2544
+-/+ buffers:              57564         3760
+Swap:       524284        23860       500424
+ 15:30:01 up 30 min,  load average: 0.09, 0.10, 0.16
+
+Sun Apr 23 15:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60264         1060            0         2904
+-/+ buffers:              57360         3964
+Swap:       524284        23780       500504
+ 15:40:01 up 40 min,  load average: 0.07, 0.07, 0.12
+
+Sun Apr 23 15:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60108         1216            0         3056
+-/+ buffers:              57052         4272
+Swap:       524284        23968       500316
+ 15:50:01 up 50 min,  load average: 0.11, 0.07, 0.11
+
+Sun Apr 23 16:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60036         1288            0         3156
+-/+ buffers:              56880         4444
+Swap:       524284        24104       500180
+ 16:00:01 up  1:00,  load average: 0.09, 0.09, 0.11
+
+Sun Apr 23 16:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60036         1288            0         3324
+-/+ buffers:              56712         4612
+Swap:       524284        24216       500068
+ 16:10:01 up  1:10,  load average: 0.06, 0.06, 0.09
+
+Sun Apr 23 16:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60216         1108            0         2308
+-/+ buffers:              57908         3416
+Swap:       524284        23636       500648
+ 16:20:01 up  1:20,  load average: 0.18, 0.14, 0.13
+
+Sun Apr 23 16:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60048         1276            0         2336
+-/+ buffers:              57712         3612
+Swap:       524284        23872       500412
+ 16:30:01 up  1:30,  load average: 0.07, 0.07, 0.11
+
+Sun Apr 23 16:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60096         1228            0         2456
+-/+ buffers:              57640         3684
+Swap:       524284        23972       500312
+ 16:40:01 up  1:40,  load average: 0.10, 0.11, 0.12
+
+Sun Apr 23 16:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60048         1276            0         2268
+-/+ buffers:              57780         3544
+Swap:       524284        24600       499684
+ 16:50:01 up  1:50,  load average: 0.06, 0.10, 0.12
+
+Sun Apr 23 17:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60120         1204            0         2344
+-/+ buffers:              57776         3548
+Swap:       524284        24664       499620
+ 17:00:01 up  2:00,  load average: 0.08, 0.05, 0.10
+
+Sun Apr 23 17:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60036         1288            0         2384
+-/+ buffers:              57652         3672
+Swap:       524284        24832       499452
+ 17:10:01 up  2:10,  load average: 0.05, 0.05, 0.07
+
+Sun Apr 23 17:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60052         1272            0         2584
+-/+ buffers:              57468         3856
+Swap:       524284        24940       499344
+ 17:20:01 up  2:20,  load average: 0.06, 0.04, 0.04
+
+Sun Apr 23 17:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60216         1108            0         2984
+-/+ buffers:              57232         4092
+Swap:       524284        25036       499248
+ 17:30:01 up  2:30,  load average: 0.43, 0.17, 0.08
+
+Sun Apr 23 17:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60204         1120            0         3444
+-/+ buffers:              56760         4564
+Swap:       524284        25248       499036
+ 17:40:01 up  2:40,  load average: 0.06, 0.09, 0.08
+
+Sun Apr 23 17:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60072         1252            0         3508
+-/+ buffers:              56564         4760
+Swap:       524284        25472       498812
+ 17:50:01 up  2:50,  load average: 0.20, 0.13, 0.09
+
+Sun Apr 23 18:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60304         1020            0         3640
+-/+ buffers:              56664         4660
+Swap:       524284        25556       498728
+ 18:00:02 up  3:00,  load average: 0.01, 0.06, 0.08
+
+Sun Apr 23 18:10:02 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59976         1348            0         1680
+-/+ buffers:              58296         3028
+Swap:       524284        19984       504300
+ 18:10:02 up 9 min,  load average: 0.04, 0.54, 0.46
+
+Sun Apr 23 18:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        59944         1380            0         2708
+-/+ buffers:              57236         4088
+Swap:       524284        20560       503724
+ 18:20:01 up 19 min,  load average: 0.60, 0.41, 0.39
+
+Sun Apr 23 18:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60272         1052            0         2980
+-/+ buffers:              57292         4032
+Swap:       524284        39240       485044
+ 18:30:01 up 29 min,  load average: 0.54, 0.59, 0.48
+
+Sun Apr 23 18:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60200         1124            0         3112
+-/+ buffers:              57088         4236
+Swap:       524284        38264       486020
+ 18:40:01 up 39 min,  load average: 0.02, 0.13, 0.29
+
+Sun Apr 23 18:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60256         1068            0         3392
+-/+ buffers:              56864         4460
+Swap:       524284        37640       486644
+ 18:50:01 up 49 min,  load average: 0.01, 0.05, 0.18
+
+Sun Apr 23 19:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60044         1280            0         3704
+-/+ buffers:              56340         4984
+Swap:       524284        37536       486748
+ 19:00:01 up 59 min,  load average: 0.07, 0.09, 0.13
+
+Sun Apr 23 19:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60188         1136            0         4072
+-/+ buffers:              56116         5208
+Swap:       524284        37432       486852
+ 19:10:01 up  1:09,  load average: 0.03, 0.06, 0.11
+
+Sun Apr 23 19:20:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60152         1172            0         1320
+-/+ buffers:              58832         2492
+Swap:       524284        32064       492220
+ 19:20:01 up  1:19,  load average: 0.05, 0.10, 0.12
+
+Sun Apr 23 19:30:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60200         1124            0         1864
+-/+ buffers:              58336         2988
+Swap:       524284        31948       492336
+ 19:30:01 up  1:29,  load average: 0.38, 0.16, 0.14
+
+Sun Apr 23 19:40:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60104         1220            0         2524
+-/+ buffers:              57580         3744
+Swap:       524284        31856       492428
+ 19:40:01 up  1:39,  load average: 0.32, 0.20, 0.15
+
+Sun Apr 23 19:50:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60108         1216            0         2956
+-/+ buffers:              57152         4172
+Swap:       524284        31744       492540
+ 19:50:01 up  1:49,  load average: 0.27, 0.25, 0.18
+
+Sun Apr 23 20:00:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60108         1216            0         2504
+-/+ buffers:              57604         3720
+Swap:       524284        31788       492496
+ 20:00:01 up  1:59,  load average: 0.20, 0.21, 0.19
+
+Sun Apr 23 20:10:01 CEST 2017
+             total         used         free       shared      buffers
+Mem:         61324        60048         1276            0         2296
+-/+ buffers:              57752         3572
+Swap:       524284        31676       492608
+ 20:10:01 up  2:09,  load average: 0.05, 0.09, 0.13

