@@ -2,7 +2,8 @@ var fs = require('fs');
 
 var branjePython = require('/root/branjePython.js');
 var branjeTail = require('/root/tailLog.js'); 
-// var zlib = require('zlib');
+var zlib = require('zlib');
+var stream = require('stream');
 //var a = 0;
 
 //function zapisiVrednost(vrednost) {
@@ -33,26 +34,39 @@ this.dispatch = function(req, res) {
   };
 
   var renderAjax = function(content) {
-    // var acceptEncoding = req.headers['accept-encoding'];
-    // var input = new Buffer(content, 'utf-8');
-    // if (!acceptEncoding) {
-    //   acceptEncoding = '';
-    // }
-
-    // if (acceptEncoding.match(/\bdeflate\b/)) {
-    //   res.writeHead(200, { 'Content-Encoding': 'deflate' });
-    //   content = zlib.Deflate(input);
-    // } else if (acceptEncoding.match(/\bgzip\b/)) {
-    //   res.writeHead(200, { 'Content-Encoding': 'gzip' });
-    //   content = zlib.Gzip(input);
-    // } else {
-    //   res.writeHead(200, {'Content-Type': 'text/plain'});
-    //   // content.pipe(res);
-    // }
-
-    
     res.writeHead(200, {'Content-Type': 'text/plain'});
     res.end(content, 'utf-8');
+    content = null;
+  };
+
+  var renderAjax1 = function(content) {
+    var txt = new stream.PassThrough();
+    txt.write(content);
+    txt.end();
+
+    var acceptEncoding = req.headers['accept-encoding'];
+    // var input = new Buffer(content, 'utf-8');
+    if (!acceptEncoding) {
+      acceptEncoding = '';
+    }
+
+    if (acceptEncoding.match(/\bdeflate\b/)) {
+      res.writeHead(200, {'Content-Type': 'text/javascript',
+                          'Content-Encoding': 'deflate' });
+      txt.pipe(zlib.createDeflate()).pipe(res);
+
+    } else if (acceptEncoding.match(/\bgzip\b/)) {
+      res.writeHead(200, {'Content-Type': 'text/javascript',
+                          'Content-Encoding': 'gzip'
+                          });
+      txt.pipe(zlib.createGzip()).pipe(res);
+    } else {
+      res.writeHead(200, {'Content-Type': 'text/plain'});
+      txt.pipe(res);
+    }
+
+    
+    // res.end();
     content = null;
   };
 
@@ -107,7 +121,7 @@ this.dispatch = function(req, res) {
       var ctn = branjeTail.tail(obdobje, function(rtrn){
         // console.log(rtrn);
         // return rtrn;
-        renderAjax(rtrn);
+        renderAjax1(rtrn);
       });
       //console.log("tole vrne: " + content);
       //branjeTail = null;

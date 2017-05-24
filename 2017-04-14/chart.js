@@ -55,6 +55,7 @@ function prejmiPodatke (termin) {
 			if (this.status == 200) {
 				if (this.responseText !== null) {
 					//res.push(this.responseText);
+					// console.log(this.responseText);
 					res = JSON.parse(this.responseText);
 					res[0].forEach(function(r){
 						if (r !== null) nalepke.push(r);
