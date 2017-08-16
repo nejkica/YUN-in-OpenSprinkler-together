@@ -25,7 +25,7 @@ var periodaF = function(){
 	var startiProgramov = []; //matrika startov za te programe zgoraj
 	var trajProg = [];
 
-	var pretok = [1.0, 1.82376]; // m3/h - prvi je kapljični, drugi je trata (izmerjeno 0,5066 l/s)
+	var pretok = [1.00, 1.70]; // m3/h - prvi je kapljični, drugi je trata (izmerjeno 0,5066 l/s) - 2017-08-14 - malo manj sem dal, da ne bo preveč rezerve delal
 	var Vmin = 0.9; // m3 -> to je 200 mm višine gladine
 	var Vdelta = 0.15; // m3, to je 5,76 cm -> razlika v višini - s to delto se regulira nihanje oz pogostost vklapljanja ventila za vodo
 //------------------------------------------------------------------------------------
@@ -41,7 +41,9 @@ var periodaF = function(){
 	
 	if (hVodePy <= 0) { //če sonda javlja 0, potem je napaka. Ker branjePython.js že sam nekaj računa, to da vrednost -2.45
 		stevecNapak += 1;
-		if (stevecNapak > 5) {
+		if (stevecNapak == 5) {
+			napakaSonde.resetirajSkripteStreznika();
+		} else if (stevecNapak > 7) {
 			napakaSonde.reboot();
 		}
 	} else {
@@ -50,26 +52,14 @@ var periodaF = function(){
 	}
 
 
-	//-------------------------------------------------------------------------------------------
-	//console.log('\033[2C');
-	//console.log(pV.osTrenutniCas);
-	//var m3Vode = (hVodePy - 205)/ka;
-
 	for (var i = 0; i < prog.length; i++) {
 		startiProgramov.push(startiPrograma(prog[i], pV));
 		trajProg.push([trajanjePrograma(prog[i], pV.pd).trajanjeMS0, trajanjePrograma(prog[i], pV.pd).trajanjeMS1]);
 	}
 
-	// var dc = new Date(pV.osTrenutniCas);
-	// var dcOffset = dc.getTimezoneOffset();
-	// var dcn = new Date(pV.osTrenutniCas + dcOffset*60*1000);
 
 	var datum = new Date();
 
-	// var msDatum = datum.getTime() - min2ms(60);
-	// var dSistem = new Date(msDatum);
-	//dSistem = dSistem + dSistem.getTimezoneOffset();
-	//console.log('\n' + dcn);
 	konzolnoSporocilo = datum.toLocaleDateString() + ' ' + datum.toLocaleTimeString();
 	dc = null;
 	dcn = null;
@@ -113,6 +103,7 @@ var perioda = setInterval (periodaF, casOsvezevanja);
 
 
 var izracunajSPVol = function(aktuProgrami, stProgramov, trajProgramov, qju){
+// console.log('izracunajSPVol');
 	var zac = 0; 		// začetek trenutnega programa (zadnjega zagona danes)
 	var nZac0 = 0; 		// začetek navideznega programa zadnjega zagona danes
 	//var zac1 = 0; 	// začetek trenutnega programa (zadnjega zagona danes)
@@ -130,7 +121,6 @@ var izracunajSPVol = function(aktuProgrami, stProgramov, trajProgramov, qju){
 		kon0 = zac + trajProgramov[i][0];
 		kon1 = zac + trajProgramov[i][1];
 
-		//console.log(zac + ' ' + kon0 + ' ' + kon1);
 
 		if (zac > nKon0) {
 			nZac0 = zac;
@@ -152,9 +142,7 @@ var izracunajSPVol = function(aktuProgrami, stProgramov, trajProgramov, qju){
 
 	var setPV0 = ((nKon0 - nZac0)/3600*qju[0]).toFixed(2);
 	var setPV1 = ((nKon1 - nZac1)/3600*qju[1]).toFixed(2);
-	//console.log('začetek0 čez ' + nZac0 + '; začetek1 čez ' + nZac1);
-	//console.log('konec 0 čez ' + nKon0 + ', konec 1 čez ' + nKon1);
-	//console.log("\r\t" + setPV0 + '\tm3 kapljično\t' + setPV1 + '\tm3 trata');
+
 	konzolnoSporocilo = konzolnoSporocilo + '\t' + setPV0 + '\t' + setPV1;
 
 	return {
@@ -165,6 +153,7 @@ var izracunajSPVol = function(aktuProgrami, stProgramov, trajProgramov, qju){
 };
 
 var trajanjePrograma = function(zapProg, pVpd) {
+// console.log('trajanjePrograma');
 	//var pV = podatki();
 	var pd = pVpd;
 
@@ -181,6 +170,7 @@ var trajanjePrograma = function(zapProg, pVpd) {
 //unix time je v s, zato *1000, da dobimo ms
 
 var startiPrograma = function(zapProgram, pdtk){ // damo mu izbrani program in potegne ven matriko startov za današnji dan
+// console.log('startiPrograma');
 	var pdV = pdtk;
 	pd = pdV.pd;
 	var zastavica = pd[zapProgram][0];
@@ -208,6 +198,7 @@ var startiPrograma = function(zapProgram, pdtk){ // damo mu izbrani program in p
 
 		
 		for (var i = 1; i < ponovitev+1; i++) {
+// console.log('ponovitev');
 			var start = racunskiStart + i * interval;
 			var startMS = razvozlajStart(start, pdV);
 			doZacetkaPrograma.push(startMS);
@@ -226,6 +217,7 @@ var startiPrograma = function(zapProgram, pdtk){ // damo mu izbrani program in p
 
 
 var razvozlajStart = function(startA, pod){ // po API priročniku posamezni biti v start0, start1, start2, start3 nekaj pomenijo. Ta jih razvozla in vrne čas začetka v ms od zdaj
+// console.log('razvozlajStart');
 	var pV = pod;
 	var start = startA;
 	var doZacetka = -1;
@@ -253,11 +245,13 @@ var razvozlajStart = function(startA, pod){ // po API priročniku posamezni biti
 		if (doZacetka<=0) doZacetka=-1;
 	}
 
+console.log('razvozlajStart - doZacetka [h]: ' + (doZacetka/1000/60/60).toFixed(2) + ' = pV.osSunRise [h]: ' + (pV.osSunRise/1000/60/60).toFixed(2) + ' - startMS [h]: ' + (startMS/1000/60/60).toFixed(2) + ' - pV.msOdPolnociV [h]: ' + (pV.msOdPolnociV/1000/60/60).toFixed(2));
 	return doZacetka;
 
 };
 
 var programiDanes = function (tc, pdt){ //ko to pokličemo damo za argument trenuten čas. In v tem dnevu poišče programe, ki imajo plan odpirat vetile
+// console.log('programiDanes');
 
 	var zacetkiDanes=[];
 	var pV = pdt;
@@ -312,8 +306,10 @@ var programiDanes = function (tc, pdt){ //ko to pokličemo damo za argument tren
 };
 
 var podatki = function (){ //funkcija potegne podatke iz os.obj, ki ga vrne ./branjeOS.js (bere odziv URL-ja od vseh opcij OpenSprinklerja -?ja&pw=xxx )
+// console.log('podatki');
 
-	var osTrenutniCas = os.obj.settings.devt*1000;
+	var osTrenutniCas = os.obj.settings.devt*1000-2*60*60*1000; //odštejemo 2 uri, ker je zamik zaradi časovnega pasu
+// console.log('trenutni čas na krmilniku: ' + new Date(osTrenutniCas));
 
 	var osSunRise = min2ms(os.obj.settings.sunrise); //krmilnik daje info v minutah po polnoči
 	var osSunSet = min2ms(os.obj.settings.sunset);
@@ -321,7 +317,7 @@ var podatki = function (){ //funkcija potegne podatke iz os.obj, ki ga vrne ./br
 	var koracno = os.obj.stations.stn_seq; //127 če so vklopljeni vsi kanali na sekvenčno - pomeni, da se nihkoli ne prekrivajo
 	var zakasnitevPadavine = os.obj.settings.rd;
 
-	if (koracno > 0) {
+	if (koracno != 3) {
 		if ((osTrenutniCas - posTrenutniCas)>0) {
 			sprPostajo.spremeniKorake();
 			//console.log('+++++++++++++++++++++ koraki ponastavljeni na 0 ++++++++++++++++++');
@@ -333,7 +329,6 @@ var podatki = function (){ //funkcija potegne podatke iz os.obj, ki ga vrne ./br
 	var pd = os.obj.programs.pd;
 	var ventilVodovodaDisabled = os.obj.stations.stn_dis;
 	var vvD = (ventilVodovodaDisabled & 64) >> 6;
-	//console.log('ventilVodovodaDisabled ' + ventilVodovodaDisabled + ' ' + vvD);
 
 	return {
 		osTrenutniCas: osTrenutniCas, 
@@ -372,8 +367,19 @@ function min2ms(minute){
 }
 
 function msOdPolnoci(trenutniCas){ // za argument damo trenutni čas in vrne ms od polnoči.
+	// var d = new Date();
 	var d = new Date(trenutniCas);
-	var ms = d.getTime()+ min2ms(d.getTimezoneOffset()) - d.setHours(0,0,0,0);
+	// var n = d;
+	// var d = new Date();
+	// var ms = d.getTime()+ min2ms(d.getTimezoneOffset()) - d.setHours(0,0,0,0);
+	var ms = d.getTime() - d.setHours(0,0,0,0);
+// console.log('ms= ' + ms);
+	if (ms < 0) {
+console.log('čas je zamaknjen!!! cas krmilnika= ' + trenutniCas + ' d= ' + d + ' stari ms= ' + ms);
+		// ms = n.getTime() - n.setHours(0,0,0,0);
+		ms = 84000000;
+	}
+
 	d=null;
 	return ms;
 

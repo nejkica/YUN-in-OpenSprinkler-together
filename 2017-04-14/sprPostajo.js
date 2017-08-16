@@ -5,7 +5,7 @@ var http = require('http');
 var options1 = {
   host: '192.168.2.11', //doma 192.168.123.101
   port: '80',
-  path: '/cs?pw=xxx&q0=0'
+  path: '/cs?pw=xxx&q0=3'
 };
 
 var options2 = {

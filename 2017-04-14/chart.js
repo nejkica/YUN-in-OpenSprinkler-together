@@ -228,13 +228,26 @@ function narisiGraf (dataIn, labelsIn, termin) {
 			                            	}
 										}
 										]
-					    			},
+					    	},
+					  //   	pan: {
+							// 	enabled: true,
+							// 	mode: 'x' // is panning about the y axis neccessary for bar charts?
+							// },
+							// zoom: {
+							// 	enabled: true,
+							// 	mode: 'x',
+							// 	sensitivity: 3,
+							// 	// limits: {
+							// 	// 	max: 86400,
+							// 	// 	min: 0.5
+							// 	// }
+							// },
 					    	legend: {
 					            display: false,
 					            labels: {
 					                fontSize: fontSz
 					            	}
-        						},
+        					},
         					tooltips: {
 						        callbacks: {
 							        label: function(tooltipItem, data) {

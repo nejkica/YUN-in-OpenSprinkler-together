@@ -1,5 +1,5 @@
 # ob 01:01 vsakega prvega v mesecu izbrise log datoteke
-1 1 1 * * find /root/.forever -type f -name "*.log" -exec tee {} \; </dev/null
+1 1 1 * * find /root/.forever -maxdepth 1 -type f -name "*.log" -exec tee {} \; </dev/null
 
 # ---------------- upload log na streznik ---------------
 # vsak dan upload log datoteke minuto pred zadnjim reboot (23:59)
@@ -10,7 +10,7 @@
 
 # --------------- log za web app ------------------------
 # vsake 3 minute naredi 1 vnos v dnevni.log in zacetek dneva kompaktiraj na zadnjih 480 vrstic
-1-59/3 * * * * /root/scripts/dnevni.sh
+2-59/3 * * * * /root/scripts/dnevni.sh
 2 2 * * * /root/scripts/dnevniKompakt.sh
 # vsake 15 minut naredi 1 vnos v tedenski.log in zacetek dneva kompaktiraj na zadnjih 672 vrstic
 */15 * * * * /root/scripts/tedenski.sh
@@ -21,10 +21,14 @@
 # -------------------------------------------------------
 
 # ---------------- ponovni zagon ------------------------
-32 */6 * * * /sbin/reboot
+6 0 2 * * /sbin/reboot
+7 0 * * * /root/scripts/logRestart.sh
 # -------------------------------------------------------
 
-
+# ---------------- nadzor skriptov ------------------------
+* * * * * /root/scripts/logMonitor.sh
+# ---------------------------------------------------------
+9-59/15 * * * * /bin/sed -i '/umount/d' /var/log/messages
 
 # free -m log v /root/scripts/free.log
 #*/10 * * * * /root/scripts/freeLog.sh

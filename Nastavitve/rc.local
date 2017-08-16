@@ -11,14 +11,13 @@ sed -i -e "s/Caterina-Yun.hex/Caterina-$BOARD.hex/g" $FILE
 
 /usr/bin/reset-mcu
 
-export FOREVER_ROOT=/root/.forever
-forever start -a -l $(date '+%F')s.log -c "node --max_executable_size=96 --max_old_space_size=128 --max_new_space_size=1024" /root/streznik.js 
-forever start -a -l $(date '+%F')r.log -c "node --max_executable_size=96 --max_old_space_size=128 --max_new_space_size=1024" /root/racunanjeOS.js 
+/usr/bin/node /root/streznik.js >> /root/.forever/$(date '+%F')s.log &
+/usr/bin/node /root/racunanjeOS.js >> /root/.forever/$(date '+%F')r.log &
 
-#-c "node --stack_size=5 --max_old_size=5 --max_new_space_size=1024 --max_executable_size=5"
-# -c "node --stack_size=5 --max_old_size=5 --max_new_space_size=1024 --max_executable_size=5"
-#/usr/bin/
+#export FOREVER_ROOT=/root/.forever
 
-logread > /var/log/bootLogread.log
+#forever start -a -l $(date '+%F')s.log -c "node --stack_size=1024 --max_old_space_size=20 --max_new_space_size=2048 --max_executable_size=5 --gc_global --gc_interval=100" /root/streznik.js 
+#forever start -a -l $(date '+%F')r.log -c "node --stack_size=1024 --max_old_space_size=20 --max_new_space_size=2048 --max_executable_size=5 --gc_global --gc_interval=100" /root/racunanjeOS.js 
+
 
 exit 0
